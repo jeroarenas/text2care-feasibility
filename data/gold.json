@@ -1,0 +1,752 @@
+{
+ "edad_diagnostico": {
+  "level": "N1",
+  "value": 67,
+  "type": "entero",
+  "coding": "años",
+  "source": "Anamnesis / datos administrativos",
+  "how": "explícita o derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "peso_kg": {
+  "level": "N1",
+  "value": 71,
+  "type": "decimal",
+  "coding": "kg",
+  "source": "Anamnesis",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "talla_cm": {
+  "level": "N1",
+  "value": 173,
+  "type": "entero",
+  "coding": "cm",
+  "source": "Anamnesis",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "icat_pa": {
+  "level": "N1",
+  "value": 55.6,
+  "type": "decimal",
+  "coding": "paquetes-año",
+  "source": "Anamnesis",
+  "how": "derivada",
+  "certainty": "aproximada",
+  "note": "No aparece de forma explícita; debe estimarse a partir de consumo y duración."
+ },
+ "edad_inicio_tabaco": {
+  "level": "N1",
+  "value": "18-19",
+  "type": "intervalo",
+  "coding": "años",
+  "source": "Anamnesis",
+  "how": "explícita / normalizada",
+  "certainty": "intervalo",
+  "note": "No forzar un único valor."
+ },
+ "precision_edad_inicio": {
+  "level": "N1",
+  "value": "INTERVALO",
+  "type": "categórica",
+  "coding": "EXACTA / INTERVALO / APROXIMADA / NO_DETERMINABLE",
+  "source": "Anamnesis",
+  "how": "derivada",
+  "certainty": "n/a",
+  "note": null
+ },
+ "primer_sintoma": {
+  "level": "N1",
+  "value": "TOS",
+  "type": "categórica",
+  "coding": "categoría clínica normalizada",
+  "source": "Anamnesis",
+  "how": "derivada",
+  "certainty": "aproximada",
+  "note": "La hemoptisis motiva la consulta, pero la tos es anterior."
+ },
+ "fecha_primer_sintoma": {
+  "level": "N1",
+  "value": "Finales de otoño de 2025",
+  "type": "fecha/intervalo",
+  "coding": "texto temporal normalizado",
+  "source": "Anamnesis",
+  "how": "derivada",
+  "certainty": "aproximada",
+  "note": "No inventar una fecha exacta."
+ },
+ "fecha_hemoptisis": {
+  "level": "N1",
+  "value": "2026-01-12",
+  "type": "fecha",
+  "coding": "AAAA-MM-DD",
+  "source": "Anamnesis",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "diametro_tac_mm": {
+  "level": "N1",
+  "value": 46,
+  "type": "decimal",
+  "coding": "mm",
+  "source": "TC 21/01/2026",
+  "how": "explícita / normalizada",
+  "certainty": "exacta",
+  "note": "Usar el diámetro máximo."
+ },
+ "diametro_pet_mm": {
+  "level": "N1",
+  "value": 44,
+  "type": "decimal",
+  "coding": "mm",
+  "source": "PET-TC 27/01/2026",
+  "how": "explícita",
+  "certainty": "aproximada",
+  "note": "El informe lo expresa como aproximado."
+ },
+ "suvmax_primario": {
+  "level": "N1",
+  "value": 14.6,
+  "type": "decimal",
+  "coding": "sin unidad",
+  "source": "PET-TC 27/01/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "adenopatias_patologicas_tac": {
+  "level": "N1",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "TC 21/01/2026",
+  "how": "derivada",
+  "certainty": "alta",
+  "note": "Estación 7 patológica por tamaño; 4R no concluyente."
+ },
+ "adenopatias_patologicas_pet": {
+  "level": "N1",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "PET-TC 27/01/2026",
+  "how": "derivada",
+  "certainty": "alta",
+  "note": "Estación 7 hipermetabólica."
+ },
+ "biopsia_previa": {
+  "level": "N1",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Biopsia 30/01/2026 / AP",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "medio_biopsia": {
+  "level": "N1",
+  "value": "BIOPSIA TRANSTORÁCICA PERCUTÁNEA GUIADA POR TC",
+  "type": "categórica",
+  "coding": "texto normalizado",
+  "source": "Procedimiento 30/01/2026",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "histologia_preoperatoria": {
+  "level": "N1",
+  "value": "ADENOCARCINOMA PULMONAR",
+  "type": "categórica",
+  "coding": "clasificación histológica",
+  "source": "AP 04/02/2026",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "pdl1_preop_pct": {
+  "level": "N1",
+  "value": 35,
+  "type": "decimal",
+  "coding": "% TPS",
+  "source": "AP 04/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "egfr_preop": {
+  "level": "N1",
+  "value": "NO MUTADO",
+  "type": "categórica",
+  "coding": "mutación / no mutado / no realizado",
+  "source": "Molecular 04/02/2026",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "kras_preop": {
+  "level": "N1",
+  "value": "G12C",
+  "type": "categórica",
+  "coding": "mutación / no mutado / no realizado",
+  "source": "Molecular 04/02/2026",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "estadificacion_invasiva": {
+  "level": "N1",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "EBUS 09/02/2026",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "medio_estadificacion": {
+  "level": "N1",
+  "value": "EBUS",
+  "type": "categórica",
+  "coding": "técnica normalizada",
+  "source": "EBUS 09/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "n_territorios_biopsiados": {
+  "level": "N1",
+  "value": 3,
+  "type": "entero",
+  "coding": "n",
+  "source": "EBUS 09/02/2026",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": "4R, 7 y 11R."
+ },
+ "n2_confirmado_invasivo": {
+  "level": "N1",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "EBUS/citología 09/02/2026",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": "Estación 7 positiva."
+ },
+ "calidad_estadificacion": {
+  "level": "N1",
+  "value": "PARCIALMENTE LIMITADA",
+  "type": "categórica",
+  "coding": "ADECUADA / PARCIALMENTE_LIMITADA / INSUFICIENTE",
+  "source": "EBUS/citología 09/02/2026",
+  "how": "derivada",
+  "certainty": "alta",
+  "note": "4R insuficiente; 7 y 11R representativas."
+ },
+ "cT": {
+  "level": "N1",
+  "value": "cT2b",
+  "type": "categórica",
+  "coding": "TNM",
+  "source": "Comité 13/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "cN": {
+  "level": "N1",
+  "value": "cN2",
+  "type": "categórica",
+  "coding": "TNM",
+  "source": "Comité 13/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "cM": {
+  "level": "N1",
+  "value": "cM0",
+  "type": "categórica",
+  "coding": "TNM",
+  "source": "Comité 13/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "c_estadio": {
+  "level": "N1",
+  "value": "IIIA",
+  "type": "categórica",
+  "coding": "estadio TNM",
+  "source": "Comité 13/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "fev1_pct": {
+  "level": "N1",
+  "value": 88,
+  "type": "decimal",
+  "coding": "%",
+  "source": "PFR 11/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "dlco_pct": {
+  "level": "N1",
+  "value": 81,
+  "type": "decimal",
+  "coding": "%",
+  "source": "PFR 11/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "test_esfuerzo_realizado": {
+  "level": "N1",
+  "value": 0,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "PFR 11/02/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": "No se realizó; no equivale a VO2=0."
+ },
+ "cea_basal": {
+  "level": "N1",
+  "value": 12.8,
+  "type": "decimal",
+  "coding": "ng/mL",
+  "source": "Laboratorio 20/01/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": "Elevado según el laboratorio."
+ },
+ "cyfra_basal": {
+  "level": "N1",
+  "value": 2.7,
+  "type": "decimal",
+  "coding": "ng/mL",
+  "source": "Laboratorio 20/01/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "neoadyuvancia": {
+  "level": "N1",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Comité / Oncología",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "tipo_neoadyuvancia": {
+  "level": "N1",
+  "value": "QUIMIOINMUNOTERAPIA",
+  "type": "categórica",
+  "coding": "QT / IO / QT+IO / RT / TKI / etc.",
+  "source": "Oncología",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "ciclos_neoadyuvancia": {
+  "level": "N1",
+  "value": 3,
+  "type": "entero",
+  "coding": "ciclos",
+  "source": "Oncología",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "respuesta_neoadyuvancia": {
+  "level": "N1",
+  "value": "RESPUESTA PARCIAL",
+  "type": "categórica",
+  "coding": "RC / RP / EE / PD",
+  "source": "TC 22/04/2026",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "ycT": {
+  "level": "N1",
+  "value": "ycT1c",
+  "type": "categórica",
+  "coding": "TNM",
+  "source": "Comité 24/04/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "ycN": {
+  "level": "N1",
+  "value": "ycN0",
+  "type": "categórica",
+  "coding": "TNM",
+  "source": "Comité 24/04/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "reseccion_practicada": {
+  "level": "N1",
+  "value": "LOBECTOMÍA INFERIOR DERECHA",
+  "type": "categórica",
+  "coding": "procedimiento normalizado",
+  "source": "Informe quirúrgico 06/05/2026",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "abordaje_inicial": {
+  "level": "N1",
+  "value": "VATS UNIPORTAL",
+  "type": "categórica",
+  "coding": "VATS / robótico / abierto / etc.",
+  "source": "Informe quirúrgico",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "abordaje_final": {
+  "level": "N1",
+  "value": "TORACOTOMÍA",
+  "type": "categórica",
+  "coding": "VATS / robótico / abierto / etc.",
+  "source": "Informe quirúrgico",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "conversion": {
+  "level": "N1",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Informe quirúrgico",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "ypT": {
+  "level": "N1",
+  "value": "ypT1b",
+  "type": "categórica",
+  "coding": "TNM",
+  "source": "AP 14/05/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "ypN": {
+  "level": "N1",
+  "value": "ypN0",
+  "type": "categórica",
+  "coding": "TNM",
+  "source": "AP 14/05/2026",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "tumor_viable_pct": {
+  "level": "N1",
+  "value": 8,
+  "type": "decimal",
+  "coding": "%",
+  "source": "AP 14/05/2026",
+  "how": "explícita",
+  "certainty": "aproximada",
+  "note": "El informe dice aproximadamente 8%."
+ },
+ "respuesta_patologica_mayor": {
+  "level": "N1",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "AP 14/05/2026",
+  "how": "explícita / derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "estancia_postop_dias": {
+  "level": "N2",
+  "value": 7,
+  "type": "entero",
+  "coding": "días",
+  "source": "Cirugía + informe de alta",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "fuga_aerea_postop": {
+  "level": "N2",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Evoluciones postoperatorias",
+  "how": "derivada",
+  "certainty": "alta",
+  "note": "Debe integrar varios días de evolución."
+ },
+ "duracion_fuga_aerea_dias": {
+  "level": "N2",
+  "value": 4,
+  "type": "entero",
+  "coding": "días",
+  "source": "Evoluciones postoperatorias",
+  "how": "derivada",
+  "certainty": "alta",
+  "note": "La resolución se infiere de notas sucesivas."
+ },
+ "complicacion_postop": {
+  "level": "N2",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Evoluciones + alta",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "complicacion_principal": {
+  "level": "N2",
+  "value": "FIBRILACIÓN AURICULAR",
+  "type": "categórica",
+  "coding": "categoría clínica normalizada",
+  "source": "Evoluciones + alta",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "reintervencion_postop": {
+  "level": "N2",
+  "value": 0,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Evoluciones / alta",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "tratamiento_adyuvante": {
+  "level": "N2",
+  "value": 0,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Comité 05/06/2026 + seguimiento",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": "Hubo discusión, pero finalmente no se administró."
+ },
+ "recaida": {
+  "level": "N2",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "TC/PET/EBUS/AP",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "fecha_primera_recaida": {
+  "level": "N2",
+  "value": "2027-03-28",
+  "type": "fecha",
+  "coding": "AAAA-MM-DD",
+  "source": "TC 14/03 + PET 22/03 + EBUS/AP 28/03",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": "Se toma como fecha de diagnóstico la confirmación histológica."
+ },
+ "tipo_primera_recaida": {
+  "level": "N2",
+  "value": "LOCORREGIONAL GANGLIONAR",
+  "type": "categórica",
+  "coding": "LOCAL / GANGLIONAR / DISTANCIA / MIXTA",
+  "source": "Imagen + EBUS/AP",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "localizacion_primera_recaida": {
+  "level": "N2",
+  "value": "MEDIASTINO - ESTACIÓN 7",
+  "type": "categórica",
+  "coding": "localización normalizada",
+  "source": "Imagen + EBUS/AP",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "recaida_confirmada_histologia": {
+  "level": "N2",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "EBUS/AP 28/03/2027",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "histologia_recaida": {
+  "level": "N2",
+  "value": "ADENOCARCINOMA",
+  "type": "categórica",
+  "coding": "clasificación histológica",
+  "source": "AP 28/03/2027",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "tratamiento_primera_recaida": {
+  "level": "N2",
+  "value": "QUIMIORRADIOTERAPIA CONCOMITANTE",
+  "type": "categórica",
+  "coding": "tratamiento normalizado",
+  "source": "Comité + Oncología/RT",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "respuesta_primera_recaida": {
+  "level": "N2",
+  "value": "RESPUESTA PARCIAL",
+  "type": "categórica",
+  "coding": "RC / RP / EE / PD",
+  "source": "TC 20/07/2027",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "segunda_progresion": {
+  "level": "N2",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "TC 18/01/2028",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "fecha_segunda_progresion": {
+  "level": "N2",
+  "value": "2028-01-18",
+  "type": "fecha",
+  "coding": "AAAA-MM-DD",
+  "source": "TC 18/01/2028",
+  "how": "explícita / derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "tipo_segunda_progresion": {
+  "level": "N2",
+  "value": "A DISTANCIA",
+  "type": "categórica",
+  "coding": "LOCORREGIONAL / DISTANCIA / MIXTA",
+  "source": "TC + biopsia hepática",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "organo_segunda_progresion": {
+  "level": "N2",
+  "value": "HÍGADO",
+  "type": "categórica",
+  "coding": "órgano normalizado",
+  "source": "TC + biopsia hepática",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "segunda_progresion_confirmada_histologia": {
+  "level": "N2",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Biopsia hepática 29/01/2028",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "kras_g12c_recaida_metastasica": {
+  "level": "N2",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Biopsia hepática",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "tratamiento_segunda_progresion": {
+  "level": "N2",
+  "value": "SOTORASIB",
+  "type": "categórica",
+  "coding": "fármaco / estrategia",
+  "source": "Oncología 12/02/2028",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "respuesta_sotorasib": {
+  "level": "N2",
+  "value": "RESPUESTA PARCIAL",
+  "type": "categórica",
+  "coding": "RC / RP / EE / PD",
+  "source": "TC 10/05/2028",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "estado_oncologico_final": {
+  "level": "N2",
+  "value": "ENFERMEDAD ESTABLE",
+  "type": "categórica",
+  "coding": "SIN ENFERMEDAD / RC / RP / EE / PD",
+  "source": "TC 15/09/2028 + consulta 20/09/2028",
+  "how": "derivada",
+  "certainty": "exacta",
+  "note": null
+ },
+ "vivo_ultimo_seguimiento": {
+  "level": "N2",
+  "value": 1,
+  "type": "binaria",
+  "coding": "0=No; 1=Sí",
+  "source": "Consulta 20/09/2028",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "fecha_ultimo_seguimiento": {
+  "level": "N2",
+  "value": "2028-09-20",
+  "type": "fecha",
+  "coding": "AAAA-MM-DD",
+  "source": "Consulta 20/09/2028",
+  "how": "explícita",
+  "certainty": "exacta",
+  "note": null
+ },
+ "tratamiento_activo_final": {
+  "level": "N2",
+  "value": "SOTORASIB",
+  "type": "categórica",
+  "coding": "tratamiento normalizado",
+  "source": "Consulta 20/09/2028",
+  "how": "normalizada",
+  "certainty": "exacta",
+  "note": null
+ }
+}

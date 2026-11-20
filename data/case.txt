@@ -1,0 +1,333 @@
+=== DOCUMENTO 01: Anamnesis inicial ===
+01. Anamnesis inicial
+Consulta de Neumología - 19/01/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Motivo de consulta
+Varón de 67 años remitido a Neumología por episodio de hemoptisis autolimitada ocurrido el 12/01/2026. No nuevos episodios desde entonces.
+Antecedentes familiares
+Padre fallecido por ictus a los 78 años. Madre viva, 89 años, hipertensa. Hermano con cáncer de próstata diagnosticado a los 71 años. Niega antecedentes familiares de cáncer de pulmón.
+Antecedentes personales
+Hipertensión arterial bien controlada. Dislipemia. Reflujo gastroesofágico ocasional. Apendicectomía en la juventud. Artroscopia de rodilla derecha. Sin diabetes. Sin cardiopatía isquémica conocida. No EPOC diagnosticada. Alergia conocida a metamizol (exantema).
+Tratamiento habitual: enalapril 10 mg/día, atorvastatina 20 mg/día. ECOG 0. Independiente para actividades habituales.
+Hábitos tóxicos
+Exfumador desde hace aproximadamente cuatro años. Comenzó a fumar al terminar los estudios preuniversitarios, con unos 18-19 años. Durante la mayor parte de la vida adulta fumó aproximadamente 25 cigarrillos diarios, con periodos esporádicos de menor consumo. Ingesta ocasional de alcohol, principalmente fines de semana.
+Enfermedad actual
+Refiere tos seca intermitente desde finales del otoño de 2025, inicialmente atribuida a cuadro catarral. No sabe precisar la fecha exacta de comienzo. El 12/01/2026 presenta un episodio aislado de hemoptisis de escasa cuantía que motiva consulta en Atención Primaria y radiografía de tórax, donde se describe opacidad pulmonar derecha. Niega fiebre, dolor torácico, disnea de reposo o pérdida ponderal significativa. Apetito conservado.
+Exploración física
+Peso 71 kg. Talla 173 cm. TA 132/78 mmHg. FC 72 lpm. SatO2 basal 97%. Buen estado general. Auscultación cardiopulmonar sin hallazgos relevantes. Sin adenopatías periféricas palpables.
+Impresión diagnóstica y plan
+Lesión pulmonar derecha sospechosa de neoplasia. Se solicita TC toracoabdominal con contraste, analítica completa y posterior PET-TC según resultados.
+
+=== DOCUMENTO 02: Analitica inicial ===
+02. Analítica inicial
+Laboratorio central - Informe sintético
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Identificación de muestra
+Muestra de sangre periférica. Fecha de extracción: 20/01/2026. Hora: 08:12.
+Resultados
+Parámetro
+Resultado
+Unidad
+Intervalo de referencia
+Flag
+Hemoglobina
+14,1
+g/dL
+13,0-17,5
+Hematocrito
+42,8
+%
+39-52
+Leucocitos
+8,4
+x10^9/L
+4,0-11,0
+Neutrófilos
+5,6
+x10^9/L
+1,8-7,5
+Linfocitos
+1,9
+x10^9/L
+1,0-4,0
+Plaquetas
+287
+x10^9/L
+150-400
+Creatinina
+0,91
+mg/dL
+0,70-1,20
+Bilirrubina total
+0,7
+mg/dL
+0,2-1,2
+AST/GOT
+24
+U/L
+10-40
+ALT/GPT
+29
+U/L
+10-45
+Fosfatasa alcalina
+89
+U/L
+40-130
+LDH
+221
+U/L
+135-225
+Albúmina
+4,2
+g/dL
+3,5-5,2
+PCR
+3,1
+mg/L
+&lt;5,0
+CEA
+12,8
+ng/mL
+&lt;5,0
+H
+CYFRA 21-1
+2,7
+ng/mL
+&lt;3,3
+
+=== DOCUMENTO 03: TAC diagnostico ===
+03. TC toracoabdominal diagnóstico
+Radiodiagnóstico - 21/01/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Técnica
+TC de tórax y abdomen superior con contraste intravenoso. Reconstrucciones multiplanares.
+Hallazgos
+Masa pulmonar sólida de contornos espiculados localizada en el segmento superior del lóbulo inferior derecho, de 46 x 39 x 38 mm, en contacto con la cisura mayor sin signos concluyentes de invasión de estructuras adyacentes.
+Adenopatía subcarinal de 16 mm en eje corto. Ganglio paratraqueal inferior derecho (4R) de 8 mm, sin criterios morfológicos concluyentes de malignidad. No adenopatías supraclaviculares.
+No derrame pleural ni pericárdico. Enfisema centrolobulillar leve de predominio apical.
+Hígado sin lesiones focales sospechosas. Suprarrenales sin nódulos sugestivos de metástasis. Sin lesiones óseas destructivas evidentes en el campo explorado.
+Conclusión
+Masa de lóbulo inferior derecho altamente sospechosa de neoplasia primaria pulmonar. Adenopatía subcarinal patológica por tamaño. Se recomienda completar estudio metabólico y confirmación histológica.
+
+=== DOCUMENTO 04: PET TC ===
+04. PET-TC
+Medicina Nuclear - 27/01/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Indicación
+Estadificación de masa pulmonar derecha sospechosa de neoplasia.
+Hallazgos
+Intenso hipermetabolismo en masa de lóbulo inferior derecho, con diámetro metabólico aproximado de 44 mm y SUVmáx 14,6.
+Adenopatía subcarinal hipermetabólica, SUVmáx 7,8, sugestiva de afectación tumoral. El ganglio 4R descrito en TC no presenta incremento metabólico significativo.
+No se identifican focos hipermetabólicos patológicos en suprarrenales, hígado, esqueleto u otras localizaciones. Captación intestinal difusa de probable carácter fisiológico. Foco leve en articulación acromioclavicular derecha de aspecto degenerativo.
+Conclusión
+Lesión pulmonar hipermetabólica compatible con neoplasia primaria. Adenopatía subcarinal metabólicamente sospechosa. Sin evidencia metabólica de enfermedad metastásica a distancia.
+
+=== DOCUMENTO 05: Biopsia y AP molecular ===
+05. Biopsia pulmonar y estudio anatomopatológico
+Radiología intervencionista / Anatomía Patológica - informe final 04/02/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Procedimiento
+30/01/2026. Biopsia percutánea guiada por TC de la masa del lóbulo inferior derecho. Se obtienen cuatro cilindros. Sin neumotórax significativo en control inmediato.
+Diagnóstico anatomopatológico
+Cilindros de parénquima pulmonar infiltrados por adenocarcinoma pulmonar moderadamente diferenciado, con patrón acinar predominante.
+Inmunohistoquímica: TTF-1 positivo; Napsina A positiva; p40 negativo.
+Biomarcadores
+PD-L1 (22C3): TPS 35%.EGFR: no se detectan mutaciones sensibilizantes en los exones estudiados.ALK: sin reordenamiento detectable.ROS1: sin reordenamiento detectable.KRAS: mutación p.G12C detectada.
+Comentario
+Los hallazgos son compatibles con adenocarcinoma pulmonar primario. Material suficiente para estudios realizados.
+
+=== DOCUMENTO 06: EBUS estadificacion ===
+06. EBUS para estadificación mediastínica
+Neumología intervencionista - 09/02/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Procedimiento
+EBUS lineal bajo sedación. Se exploran estaciones 2R, 4R, 4L, 7, 10R, 10L y 11R. Se puncionan 4R, 7 y 11R.
+Muestreo
+Estación 4R: tres pases. Escaso material linfoide.Estación 7: cuatro pases. Material abundante.Estación 11R: tres pases. Material representativo.
+Citología
+4R: muestra insuficiente para valoración definitiva.7: material representativo con células de adenocarcinoma compatibles con origen pulmonar.11R: material linfoide representativo, negativo para malignidad.
+Conclusión
+Afectación metastásica confirmada en estación 7 (N2). La muestra de 4R no permite exclusión histológica de afectación.
+
+=== DOCUMENTO 07: Pruebas funcionales ===
+07. Pruebas funcionales respiratorias
+Laboratorio de función pulmonar - 11/02/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Espirometría
+FVC 3,78 L (94% del predicho). FEV1 2,83 L (88% del predicho). FEV1/FVC 0,75. Sin respuesta broncodilatadora significativa.
+Difusión
+DLCO corregida 81% del valor predicho.
+Valoración
+Función respiratoria conservada para eventual resección anatómica. No se considera indicada prueba de esfuerzo cardiopulmonar en este momento.
+
+=== DOCUMENTO 08: Comite y neoadyuvancia ===
+08. Comité de tumores y tratamiento neoadyuvante
+Comité multidisciplinar / Oncología Médica
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Comité multidisciplinar - 13/02/2026
+Adenocarcinoma de lóbulo inferior derecho, PD-L1 35%, EGFR no mutado, ALK/ROS1 negativos, KRAS G12C. PET sin enfermedad a distancia. EBUS positivo en estación 7. Estadificación clínica consensuada: cT2bN2M0, estadio IIIA.
+Se propone tratamiento neoadyuvante con cisplatino, pemetrexed y nivolumab durante tres ciclos y reevaluación posterior con intención quirúrgica si respuesta y ausencia de progresión.
+Oncología Médica
+Ciclo 1: 20/02/2026. Ciclo 2: 20/03/2026. Ciclo 3: 07/04/2026. Tratamiento completado sin toxicidad limitante. Náuseas grado 1 y astenia transitoria. No ingresos ni retrasos clínicamente relevantes.
+
+=== DOCUMENTO 09: Reevaluacion preoperatoria ===
+09. Reevaluación tras neoadyuvancia
+Radiodiagnóstico / Comité de tumores
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+TC toracoabdominal - 22/04/2026
+Reducción de la lesión del lóbulo inferior derecho, actualmente de 27 x 23 mm frente a 46 x 39 mm. La adenopatía subcarinal disminuye a 6 mm. No nuevas adenopatías ni lesiones a distancia. Hallazgos compatibles con respuesta parcial.
+Comité multidisciplinar - 24/04/2026
+Buena respuesta radiológica y ausencia de progresión. Reevaluación clínica: ycT1cN0M0. Se considera candidato a resección pulmonar con intención radical.
+
+=== DOCUMENTO 10: Informe quirurgico ===
+10. Informe quirúrgico
+Cirugía Torácica - 06/05/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Fecha y procedimiento
+06/05/2026. Lobectomía inferior derecha y linfadenectomía hiliar y mediastínica sistemática.
+Descripción
+Se inicia abordaje mediante VATS uniportal derecha. Se identifica intensa fibrosis hiliar, especialmente en torno a la arteria pulmonar y al bronquio del lóbulo inferior. Tras intento prudente de disección, se considera que la continuación por vía mínimamente invasiva aumenta el riesgo vascular y se decide conversión a toracotomía posterolateral.
+Se completa lobectomía inferior derecha con sección individual de estructuras vasculares y bronquiales. Linfadenectomía de estaciones 4R, 7, 8R, 9R, 10R y 11R. Prueba de estanqueidad bronquial negativa. Se deja un drenaje pleural 28F.
+Incidencias
+Sin lesión vascular ni bronquial. Pérdida hemática estimada 250 mL. Extubación en quirófano y traslado a URPA hemodinámicamente estable.
+
+=== DOCUMENTO 11: AP definitiva ===
+11. Anatomía patológica definitiva
+Anatomía Patológica - 14/05/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Pieza
+Lobectomía inferior derecha con ganglios hiliares y mediastínicos.
+Tumor
+Lecho tumoral de 2,6 cm. Foco residual de adenocarcinoma viable de 1,8 cm, aproximadamente 8% de tumor viable. Fibrosis y cambios de tratamiento en el resto del lecho. Sin invasión pleural visceral.
+Márgenes
+Márgenes bronquial, vascular y parenquimatoso libres de infiltración tumoral.
+Ganglios
+Se estudian 17 ganglios: estaciones 4R, 7, 8R, 9R, 10R y 11R. Todos negativos para malignidad.
+Clasificación
+ypT1b ypN0. Respuesta patológica mayor. No respuesta patológica completa.
+Biomarcadores
+No se realiza nueva determinación de PD-L1 ni nuevo estudio molecular en la pieza quirúrgica.
+
+=== DOCUMENTO 12: Evoluciones postoperatorias ===
+12. Evoluciones postoperatorias
+Cirugía Torácica - notas de evolución de distintos facultativos
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Evolución diaria
+Día 0 - 06/05/2026. Evolución de guardia: despierto, orientado. Hemodinámicamente estable. SatO2 96% con gafas nasales 2 lpm. Dolor aceptablemente controlado. Drenaje pleural 180 cc serohemático, fuga aérea con tos. Rx de control con buena expansión pulmonar.
+Día 1 - 07/05/2026. Buen estado general. Deambula con ayuda. Tolera dieta. Drenaje 260 cc/24 h seroso. Burbujeo evidente con tos y espiración forzada. No fiebre. Hb 12,7. Mantener drenaje a sello de agua.
+Día 2 - 08/05/2026. Paciente confortable. Persiste fuga aérea, menor que ayer. Drenaje 190 ml. Radiografía: pulmón expandido, pequeño espacio apical sin repercusión. Por la tarde episodio de palpitaciones; ECG: fibrilación auricular a 145 lpm. Se administra amiodarona intravenosa con reversión a ritmo sinusal en aproximadamente 3 horas.
+Día 3 - 09/05/2026. Sin nuevos episodios arrítmicos. Afebril. Buena tolerancia oral. Fuga mínima únicamente con tos intensa. Drenaje 120 ml. Se mantiene drenaje.
+Día 4 - 10/05/2026. Evolución favorable. Desde la noche previa no se objetiva fuga aérea espontánea; dudoso burbujeo aislado tras tos forzada. Drenaje 80 ml seroso. Se decide mantener 24 h más.
+Día 5 - 11/05/2026. Sin fuga aérea desde hace &gt;24 h. Rx satisfactoria. Se retira drenaje pleural. Control posterior sin neumotórax significativo.
+Día 6 - 12/05/2026. Continúa estable, caminando por planta. Dolor controlado con analgesia oral. Sin disnea. Sin arritmias. Se programa alta al día siguiente.
+Día 7 - 13/05/2026. Alta domiciliaria. Herida correcta, afebril, tolerancia y movilidad adecuadas.
+
+=== DOCUMENTO 13: Informe alta ===
+13. Informe de alta
+Cirugía Torácica - 13/05/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Ingreso
+Ingreso para resección pulmonar anatómica tras tratamiento neoadyuvante. Intervenido el 06/05/2026 mediante lobectomía inferior derecha. Abordaje inicial VATS, con conversión a toracotomía por fibrosis hiliar.
+Evolución
+Postoperatorio con fuga aérea transitoria que se resuelve de forma espontánea. Episodio aislado de fibrilación auricular en segundo día postoperatorio, revertido farmacológicamente con amiodarona, sin recurrencias. Drenaje pleural retirado el 11/05/2026. Sin neumonía, reintervención ni otras complicaciones mayores.
+Alta
+Alta domiciliaria el 13/05/2026. Buen estado general. Analgesia oral. Revisión en consultas de Cirugía Torácica en 2-3 semanas.
+
+=== DOCUMENTO 14: Primera revision y decision adyuvancia ===
+14. Primera revisión y decisión postoperatoria
+Cirugía Torácica / Comité de tumores
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Consulta Cirugía Torácica - 02/06/2026
+Buena recuperación. Dolor de toracotomía leve y en mejoría. Sin disnea de nueva aparición. Herida sin signos de infección. Radiografía con cambios postoperatorios esperables. Se revisa anatomía patológica: ypT1bN0, 8% de tumor viable, márgenes libres.
+Comité de tumores - 05/06/2026
+Tras tres ciclos de quimioinmunoterapia neoadyuvante y resección R0 con respuesta patológica mayor, no se indica quimioterapia adyuvante adicional. Se acuerda seguimiento oncológico y radiológico. Se mantiene discusión sobre estrategia de inmunoterapia posterior según disponibilidad y protocolo; finalmente no se inicia tratamiento adyuvante sistémico.
+
+=== DOCUMENTO 15: Seguimiento 2026 2027 ===
+15. Seguimiento radiológico y analítico
+Seguimiento oncológico
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+TC - 15/12/2026
+Cambios postoperatorios de lobectomía inferior derecha. Sin nódulos pulmonares nuevos. Sin adenopatías mediastínicas significativas. Sin lesiones a distancia. Sin evidencia radiológica de recaída.
+TC - 14/03/2027
+Aparece adenopatía subcarinal de 18 mm, de nueva aparición respecto al estudio previo. Pequeño ganglio 4R de 9 mm. Sin lesiones pulmonares nuevas. Sin metástasis hepáticas o suprarrenales. Hallazgos sospechosos de recaída ganglionar.
+PET-TC - 22/03/2027
+Adenopatía subcarinal intensamente hipermetabólica, SUVmáx 9,4. Discreta captación en 4R, SUVmáx 3,2, inespecífica. No otras localizaciones hipermetabólicas sugestivas de enfermedad tumoral activa.
+Marcadores séricos
+Fecha
+Analito
+Resultado
+Unidad
+Referencia
+Flag
+02/06/2026
+CEA
+3,4
+ng/mL
+&lt;5,0
+02/06/2026
+CYFRA 21-1
+2,1
+ng/mL
+&lt;3,3
+05/12/2026
+CEA
+3,6
+ng/mL
+&lt;5,0
+05/12/2026
+CYFRA 21-1
+2,0
+ng/mL
+&lt;3,3
+12/03/2027
+CEA
+8,9
+ng/mL
+&lt;5,0
+H
+12/03/2027
+CYFRA 21-1
+3,5
+ng/mL
+&lt;3,3
+H
+
+=== DOCUMENTO 16: Confirmacion recaida y comite ===
+16. Confirmación de recaída y comité
+Neumología intervencionista / AP / Comité
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+EBUS - 28/03/2027
+Se punciona estación 7 y estación 4R. Estación 7: muestra representativa positiva para adenocarcinoma. Estación 4R: material linfoide representativo negativo para malignidad.
+Anatomía patológica
+Adenocarcinoma compatible con origen pulmonar. TTF-1 positivo. PD-L1 TPS 70%. KRAS G12C persistente. EGFR no mutado.
+Comité multidisciplinar - 04/04/2027
+Recaída ganglionar mediastínica aislada, histológicamente confirmada en estación 7, sin enfermedad a distancia en PET-TC. Se considera candidata a tratamiento de rescate con quimiorradioterapia concomitante con intención radical.
+
+=== DOCUMENTO 17: Tratamiento recaida y respuesta ===
+17. Tratamiento de la recaída y respuesta
+Oncología Médica / Oncología Radioterápica
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Oncología Médica / Radioterápica
+Inicio 17/04/2027. Carboplatino y paclitaxel semanal concomitante con radioterapia mediastínica, dosis total 60 Gy. Finaliza radioterapia el 31/05/2027. Toxicidad: esofagitis grado 2 y neutropenia grado 1, sin interrupciones prolongadas.
+TC - 20/07/2027
+Disminución de la adenopatía subcarinal hasta 8 mm. Sin nuevas lesiones. Respuesta parcial radiológica.
+Consulta - 27/07/2027
+Buen estado general. ECOG 1. Se acuerda vigilancia estrecha. No tratamiento sistémico adicional en este momento.
+
+=== DOCUMENTO 18: Segunda progresion y tratamiento dirigido ===
+18. Segunda progresión y tratamiento dirigido
+Radiología / Anatomía Patológica / Comité / Oncología Médica
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+TC - 18/01/2028
+Nueva lesión focal hepática en segmento VI de 24 mm y pequeño nódulo pulmonar contralateral de 9 mm. Adenopatía subcarinal estable. Hallazgos compatibles con progresión a distancia.
+Biopsia hepática - 29/01/2028
+Metástasis de adenocarcinoma pulmonar. TTF-1 positivo. KRAS G12C detectado. EGFR no mutado. PD-L1 TPS 60%.
+Comité - 06/02/2028
+Progresión metastásica hepática y pulmonar tras tratamiento multimodal previo. Se decide tratamiento sistémico dirigido frente a KRAS G12C.
+Oncología Médica
+Inicio de sotorasib el 12/02/2028. Buena tolerancia inicial. Elevación transitoria de transaminasas grado 1, sin necesidad de suspensión.
+TC - 10/05/2028
+Reducción de la lesión hepática a 12 mm y desaparición del nódulo pulmonar contralateral previamente descrito. Respuesta parcial.
+Último seguimiento - 20/09/2028
+Paciente vivo, ECOG 1, en tratamiento con sotorasib. TC de 15/09/2028 con enfermedad estable respecto a mayo, sin nuevas lesiones. CEA 4,8 ng/mL.

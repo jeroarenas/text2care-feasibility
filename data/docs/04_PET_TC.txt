@@ -1,0 +1,11 @@
+04. PET-TC
+Medicina Nuclear - 27/01/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Indicación
+Estadificación de masa pulmonar derecha sospechosa de neoplasia.
+Hallazgos
+Intenso hipermetabolismo en masa de lóbulo inferior derecho, con diámetro metabólico aproximado de 44 mm y SUVmáx 14,6.
+Adenopatía subcarinal hipermetabólica, SUVmáx 7,8, sugestiva de afectación tumoral. El ganglio 4R descrito en TC no presenta incremento metabólico significativo.
+No se identifican focos hipermetabólicos patológicos en suprarrenales, hígado, esqueleto u otras localizaciones. Captación intestinal difusa de probable carácter fisiológico. Foco leve en articulación acromioclavicular derecha de aspecto degenerativo.
+Conclusión
+Lesión pulmonar hipermetabólica compatible con neoplasia primaria. Adenopatía subcarinal metabólicamente sospechosa. Sin evidencia metabólica de enfermedad metastásica a distancia.

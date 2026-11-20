@@ -1,0 +1,404 @@
+{
+ "content": "{\n  \"edad_diagnostico\": {\"value\": \"67\", \"docs\": [1], \"quote\": \"Varón de 67 años\", \"confidence\": 100},\n  \"peso_kg\": {\"value\": \"71\", \"docs\": [1], \"quote\": \"Peso 71 kg\", \"confidence\": 100},\n  \"talla_cm\": {\"value\": \"173\", \"docs\": [1], \"quote\": \"Talla 173 cm\", \"confidence\": 100},\n  \"icat_pa\": {\"value\": \"44\", \"docs\": [1], \"quote\": \"fumó aproximadamente 25 cigarrillos diarios, con periodos esporádicos de menor consumo. Exfumador desde hace aproximadamente cuatro años.\", \"confidence\": 80},\n  \"edad_inicio_tabaco\": {\"value\": \"18-19\", \"docs\": [1], \"quote\": \"Comenzó a fumar al terminar los estudios preuniversitarios, con unos 18-19 años.\", \"confidence\": 100},\n  \"precision_edad_inicio\": {\"value\": \"INTERVALO\", \"docs\": [1], \"quote\": \"Comenzó a fumar al terminar los estudios preuniversitarios, con unos 18-19 años.\", \"confidence\": 100},\n  \"primer_sintoma\": {\"value\": \"tos seca\", \"docs\": [1], \"quote\": \"Refiere tos seca intermitente desde finales del otoño de 2025\", \"confidence\": 100},\n  \"fecha_primer_sintoma\": {\"value\": \"2025-10\", \"docs\": [1], \"quote\": \"Refiere tos seca intermitente desde finales del otoño de 2025\", \"confidence\": 80},\n  \"fecha_hemoptisis\": {\"value\": \"2026-01-12\", \"docs\": [1], \"quote\": \"episodio de hemoptisis autolimitada ocurrido el 12/01/2026\", \"confidence\": 100},\n  \"diametro_tac_mm\": {\"value\": \"46\", \"docs\": [3], \"quote\": \"Masa pulmonar sólida de contornos espiculados localizada en el segmento superior del lóbulo inferior derecho, de 46 x 39 x 38 mm\", \"confidence\": 100},\n  \"diametro_pet_mm\": {\"value\": \"44\", \"docs\": [4], \"quote\": \"Intenso hipermetabolismo en masa de lóbulo inferior derecho, con diámetro metabólico aproximado de 44 mm\", \"confidence\": 100},\n  \"suvmax_primario\": {\"value\": \"14.6\", \"docs\": [4], \"quote\": \"SUVmáx 14,6\", \"confidence\": 100},\n  \"adenopatias_patologicas_tac\": {\"value\": \"1\", \"docs\": [3], \"quote\": \"Adenopatía subcarinal de 16 mm en eje corto.\", \"confidence\": 100},\n  \"adenopatias_patologicas_pet\": {\"value\": \"1\", \"docs\": [4], \"quote\": \"Adenopatía subcarinal hipermetabólica, SUVmáx 7,8, sugestiva de afectación tumoral.\", \"confidence\": 100},\n  \"biopsia_previa\": {\"value\": \"1\", \"docs\": [5], \"quote\": \"Biopsia percutánea guiada por TC de la masa del lóbulo inferior derecho.\", \"confidence\": 100},\n  \"medio_biopsia\": {\"value\": \"TC\", \"docs\": [5], \"quote\": \"Biopsia percutánea guiada por TC\", \"confidence\": 100},\n  \"histologia_preoperatoria\": {\"value\": \"adenocarcinoma pulmonar\", \"docs\": [5], \"quote\": \"Cilindros de parénquima pulmonar infiltrados por adenocarcinoma pulmonar\", \"confidence\": 100},\n  \"pdl1_preop_pct\": {\"value\": \"35\", \"docs\": [5], \"quote\": \"PD-L1 (22C3): TPS 35%\", \"confidence\": 100},\n  \"egfr_preop\": {\"value\": \"no mutado\", \"docs\": [5], \"quote\": \"EGFR: no se detectan mutaciones sensibilizantes en los exones estudiados\", \"confidence\": 100},\n  \"kras_preop\": {\"value\": \"mutación\", \"docs\": [5], \"quote\": \"KRAS: mutación p.G12C detectada\", \"confidence\": 100},\n  \"estadificacion_invasiva\": {\"value\": \"1\", \"docs\": [6], \"quote\": \"EBUS lineal bajo sedación. Se exploran estaciones 2R, 4R, 4L, 7, 10R, 10L y 11R. Se puncionan 4R, 7 y 11R.\", \"confidence\": 100},\n  \"medio_estadificacion\": {\"value\": \"EBUS\", \"docs\": [6], \"quote\": \"EBUS lineal bajo sedación\", \"confidence\": 100},\n  \"n_territorios_biopsiados\": {\"value\": \"3\", \"docs\": [6], \"quote\": \"Se puncionan 4R, 7 y 11R.\", \"confidence\": 100},\n  \"n2_confirmado_invasivo\": {\"value\": \"1\", \"docs\": [6], \"quote\": \"Citología...Estación 7: cuatro pases. Material abundante. ...Estación 7: material representativo con células de adenocarcinoma compatibles con origen pulmonar.\", \"confidence\": 100},\n  \"calidad_estadificacion\": {\"value\": \"INSUFICIENTE\", \"docs\": [6], \"quote\": \"4R: muestra insuficiente para valoración definitiva.\", \"confidence\": 80},\n  \"cT\": {\"value\": \"T2b\", \"docs\": [8], \"quote\": \"cT2bN2M0\", \"confidence\": 100},\n  \"cN\": {\"value\": \"N2\", \"docs\": [8], \"quote\": \"cT2bN2M0\", \"confidence\": 100},\n  \"cM\": {\"value\": \"M0\", \"docs\": [8], \"quote\": \"cT2bN2M0\", \"confidence\": 100},\n  \"c_estadio\": {\"value\": \"IIIA\", \"docs\": [8], \"quote\": \"cT2bN2M0, estadio IIIA.\", \"confidence\": 100},\n  \"fev1_pct\": {\"value\": \"88\", \"docs\": [7], \"quote\": \"FEV1 2,83 L (88% del predicho)\", \"confidence\": 100},\n  \"dlco_pct\": {\"value\": \"81\", \"docs\": [7], \"quote\": \"DLCO corregida 81% del valor predicho\", \"confidence\": 100},\n  \"test_esfuerzo_realizado\": {\"value\": \"0\", \"docs\": [7], \"quote\": \"No se considera indicada prueba de esfuerzo cardiopulmonar en este momento.\", \"confidence\": 100},\n  \"cea_basal\": {\"value\": \"12.8\", \"docs\": [2], \"quote\": \"CEA 12,8 ng/mL\", \"confidence\": 100},\n  \"cyfra_basal\": {\"value\": \"2.7\", \"docs\": [2], \"quote\": \"CYFRA 21-1 2,7 ng/mL\", \"confidence\": 100},\n  \"neoadyuvancia\": {\"value\": \"1\", \"docs\": [8], \"quote\": \"Se propone tratamiento neoadyuvante con cisplatino, pemetrexed y nivolumab durante tres ciclos\", \"confidence\": 100},\n  \"tipo_neoadyuvancia\": {\"value\": \"QT+IO\", \"docs\": [8], \"quote\": \"Se propone tratamiento neoadyuvante con cisplatino, pemetrexed y nivolumab\", \"confidence\": 100},\n  \"ciclos_neoadyuvancia\": {\"value\": \"3\", \"docs\": [8], \"quote\": \"durante tres ciclos\", \"confidence\": 100},\n  \"respuesta_neoadyuvancia\": {\"value\": \"RP\", \"docs\": [9], \"quote\": \"Buena respuesta radiológica y ausencia de progresión.\", \"confidence\": 100},\n  \"ycT\": {\"value\": \"T1b\", \"docs\": [14], \"quote\": \"ypT1b ypN0\", \"confidence\": 100},\n  \"ycN\": {\"value\": \"N0\", \"docs\": [14], \"quote\": \"ypT1b ypN0\", \"confidence\": 100},\n  \"reseccion_practicada\": {\"value\": \"lobectomia inferior derecha\", \"docs\": [10], \"quote\": \"lobectomía inferior derecha y linfadenectomía hiliar y mediastínica sistemática\", \"confidence\": 100},\n  \"abordaje_inicial\": {\"value\": \"VATS\", \"docs\": [10], \"quote\": \"Se inicia abordaje mediante VATS uniportal derecha.\", \"confidence\": 100},\n  \"abordaje_final\": {\"value\": \"abierto\", \"docs\": [10], \"quote\": \"se decide conversión a toracotomía posterolateral.\", \"confidence\": 100},\n  \"conversion\": {\"value\": \"1\", \"docs\": [10], \"quote\": \"se decide conversión a toracotomía posterolateral.\", \"confidence\": 100},\n  \"ypT\": {\"value\": \"T1b\", \"docs\": [11], \"quote\": \"ypT1b ypN0\", \"confidence\": 100},\n  \"ypN\": {\"value\": \"N0\", \"docs\": [11], \"quote\": \"ypT1b ypN0\", \"confidence\": 100},\n  \"tumor_viable_pct\": {\"value\": \"8\", \"docs\": [11], \"quote\": \"foco residual de adenocarcinoma viable de 1,8 cm, aproximadamente 8% de tumor viable.\", \"confidence\": 100},\n  \"respuesta_patologica_mayor\": {\"value\": \"1\", \"docs\": [11], \"quote\": \"Respuesta patológica mayor.\", \"confidence\": 100}\n}",
+ "thinking_chars": 0,
+ "seconds": 210.1,
+ "usage": {
+  "prompt_eval_count": 7556,
+  "eval_count": 2452,
+  "total_duration": 210146457490
+ },
+ "parsed": {
+  "edad_diagnostico": {
+   "value": "67",
+   "docs": [
+    1
+   ],
+   "quote": "Varón de 67 años",
+   "confidence": 100
+  },
+  "peso_kg": {
+   "value": "71",
+   "docs": [
+    1
+   ],
+   "quote": "Peso 71 kg",
+   "confidence": 100
+  },
+  "talla_cm": {
+   "value": "173",
+   "docs": [
+    1
+   ],
+   "quote": "Talla 173 cm",
+   "confidence": 100
+  },
+  "icat_pa": {
+   "value": "44",
+   "docs": [
+    1
+   ],
+   "quote": "fumó aproximadamente 25 cigarrillos diarios, con periodos esporádicos de menor consumo. Exfumador desde hace aproximadamente cuatro años.",
+   "confidence": 80
+  },
+  "edad_inicio_tabaco": {
+   "value": "18-19",
+   "docs": [
+    1
+   ],
+   "quote": "Comenzó a fumar al terminar los estudios preuniversitarios, con unos 18-19 años.",
+   "confidence": 100
+  },
+  "precision_edad_inicio": {
+   "value": "INTERVALO",
+   "docs": [
+    1
+   ],
+   "quote": "Comenzó a fumar al terminar los estudios preuniversitarios, con unos 18-19 años.",
+   "confidence": 100
+  },
+  "primer_sintoma": {
+   "value": "tos seca",
+   "docs": [
+    1
+   ],
+   "quote": "Refiere tos seca intermitente desde finales del otoño de 2025",
+   "confidence": 100
+  },
+  "fecha_primer_sintoma": {
+   "value": "2025-10",
+   "docs": [
+    1
+   ],
+   "quote": "Refiere tos seca intermitente desde finales del otoño de 2025",
+   "confidence": 80
+  },
+  "fecha_hemoptisis": {
+   "value": "2026-01-12",
+   "docs": [
+    1
+   ],
+   "quote": "episodio de hemoptisis autolimitada ocurrido el 12/01/2026",
+   "confidence": 100
+  },
+  "diametro_tac_mm": {
+   "value": "46",
+   "docs": [
+    3
+   ],
+   "quote": "Masa pulmonar sólida de contornos espiculados localizada en el segmento superior del lóbulo inferior derecho, de 46 x 39 x 38 mm",
+   "confidence": 100
+  },
+  "diametro_pet_mm": {
+   "value": "44",
+   "docs": [
+    4
+   ],
+   "quote": "Intenso hipermetabolismo en masa de lóbulo inferior derecho, con diámetro metabólico aproximado de 44 mm",
+   "confidence": 100
+  },
+  "suvmax_primario": {
+   "value": "14.6",
+   "docs": [
+    4
+   ],
+   "quote": "SUVmáx 14,6",
+   "confidence": 100
+  },
+  "adenopatias_patologicas_tac": {
+   "value": "1",
+   "docs": [
+    3
+   ],
+   "quote": "Adenopatía subcarinal de 16 mm en eje corto.",
+   "confidence": 100
+  },
+  "adenopatias_patologicas_pet": {
+   "value": "1",
+   "docs": [
+    4
+   ],
+   "quote": "Adenopatía subcarinal hipermetabólica, SUVmáx 7,8, sugestiva de afectación tumoral.",
+   "confidence": 100
+  },
+  "biopsia_previa": {
+   "value": "1",
+   "docs": [
+    5
+   ],
+   "quote": "Biopsia percutánea guiada por TC de la masa del lóbulo inferior derecho.",
+   "confidence": 100
+  },
+  "medio_biopsia": {
+   "value": "TC",
+   "docs": [
+    5
+   ],
+   "quote": "Biopsia percutánea guiada por TC",
+   "confidence": 100
+  },
+  "histologia_preoperatoria": {
+   "value": "adenocarcinoma pulmonar",
+   "docs": [
+    5
+   ],
+   "quote": "Cilindros de parénquima pulmonar infiltrados por adenocarcinoma pulmonar",
+   "confidence": 100
+  },
+  "pdl1_preop_pct": {
+   "value": "35",
+   "docs": [
+    5
+   ],
+   "quote": "PD-L1 (22C3): TPS 35%",
+   "confidence": 100
+  },
+  "egfr_preop": {
+   "value": "no mutado",
+   "docs": [
+    5
+   ],
+   "quote": "EGFR: no se detectan mutaciones sensibilizantes en los exones estudiados",
+   "confidence": 100
+  },
+  "kras_preop": {
+   "value": "mutación",
+   "docs": [
+    5
+   ],
+   "quote": "KRAS: mutación p.G12C detectada",
+   "confidence": 100
+  },
+  "estadificacion_invasiva": {
+   "value": "1",
+   "docs": [
+    6
+   ],
+   "quote": "EBUS lineal bajo sedación. Se exploran estaciones 2R, 4R, 4L, 7, 10R, 10L y 11R. Se puncionan 4R, 7 y 11R.",
+   "confidence": 100
+  },
+  "medio_estadificacion": {
+   "value": "EBUS",
+   "docs": [
+    6
+   ],
+   "quote": "EBUS lineal bajo sedación",
+   "confidence": 100
+  },
+  "n_territorios_biopsiados": {
+   "value": "3",
+   "docs": [
+    6
+   ],
+   "quote": "Se puncionan 4R, 7 y 11R.",
+   "confidence": 100
+  },
+  "n2_confirmado_invasivo": {
+   "value": "1",
+   "docs": [
+    6
+   ],
+   "quote": "Citología...Estación 7: cuatro pases. Material abundante. ...Estación 7: material representativo con células de adenocarcinoma compatibles con origen pulmonar.",
+   "confidence": 100
+  },
+  "calidad_estadificacion": {
+   "value": "INSUFICIENTE",
+   "docs": [
+    6
+   ],
+   "quote": "4R: muestra insuficiente para valoración definitiva.",
+   "confidence": 80
+  },
+  "cT": {
+   "value": "T2b",
+   "docs": [
+    8
+   ],
+   "quote": "cT2bN2M0",
+   "confidence": 100
+  },
+  "cN": {
+   "value": "N2",
+   "docs": [
+    8
+   ],
+   "quote": "cT2bN2M0",
+   "confidence": 100
+  },
+  "cM": {
+   "value": "M0",
+   "docs": [
+    8
+   ],
+   "quote": "cT2bN2M0",
+   "confidence": 100
+  },
+  "c_estadio": {
+   "value": "IIIA",
+   "docs": [
+    8
+   ],
+   "quote": "cT2bN2M0, estadio IIIA.",
+   "confidence": 100
+  },
+  "fev1_pct": {
+   "value": "88",
+   "docs": [
+    7
+   ],
+   "quote": "FEV1 2,83 L (88% del predicho)",
+   "confidence": 100
+  },
+  "dlco_pct": {
+   "value": "81",
+   "docs": [
+    7
+   ],
+   "quote": "DLCO corregida 81% del valor predicho",
+   "confidence": 100
+  },
+  "test_esfuerzo_realizado": {
+   "value": "0",
+   "docs": [
+    7
+   ],
+   "quote": "No se considera indicada prueba de esfuerzo cardiopulmonar en este momento.",
+   "confidence": 100
+  },
+  "cea_basal": {
+   "value": "12.8",
+   "docs": [
+    2
+   ],
+   "quote": "CEA 12,8 ng/mL",
+   "confidence": 100
+  },
+  "cyfra_basal": {
+   "value": "2.7",
+   "docs": [
+    2
+   ],
+   "quote": "CYFRA 21-1 2,7 ng/mL",
+   "confidence": 100
+  },
+  "neoadyuvancia": {
+   "value": "1",
+   "docs": [
+    8
+   ],
+   "quote": "Se propone tratamiento neoadyuvante con cisplatino, pemetrexed y nivolumab durante tres ciclos",
+   "confidence": 100
+  },
+  "tipo_neoadyuvancia": {
+   "value": "QT+IO",
+   "docs": [
+    8
+   ],
+   "quote": "Se propone tratamiento neoadyuvante con cisplatino, pemetrexed y nivolumab",
+   "confidence": 100
+  },
+  "ciclos_neoadyuvancia": {
+   "value": "3",
+   "docs": [
+    8
+   ],
+   "quote": "durante tres ciclos",
+   "confidence": 100
+  },
+  "respuesta_neoadyuvancia": {
+   "value": "RP",
+   "docs": [
+    9
+   ],
+   "quote": "Buena respuesta radiológica y ausencia de progresión.",
+   "confidence": 100
+  },
+  "ycT": {
+   "value": "T1b",
+   "docs": [
+    14
+   ],
+   "quote": "ypT1b ypN0",
+   "confidence": 100
+  },
+  "ycN": {
+   "value": "N0",
+   "docs": [
+    14
+   ],
+   "quote": "ypT1b ypN0",
+   "confidence": 100
+  },
+  "reseccion_practicada": {
+   "value": "lobectomia inferior derecha",
+   "docs": [
+    10
+   ],
+   "quote": "lobectomía inferior derecha y linfadenectomía hiliar y mediastínica sistemática",
+   "confidence": 100
+  },
+  "abordaje_inicial": {
+   "value": "VATS",
+   "docs": [
+    10
+   ],
+   "quote": "Se inicia abordaje mediante VATS uniportal derecha.",
+   "confidence": 100
+  },
+  "abordaje_final": {
+   "value": "abierto",
+   "docs": [
+    10
+   ],
+   "quote": "se decide conversión a toracotomía posterolateral.",
+   "confidence": 100
+  },
+  "conversion": {
+   "value": "1",
+   "docs": [
+    10
+   ],
+   "quote": "se decide conversión a toracotomía posterolateral.",
+   "confidence": 100
+  },
+  "ypT": {
+   "value": "T1b",
+   "docs": [
+    11
+   ],
+   "quote": "ypT1b ypN0",
+   "confidence": 100
+  },
+  "ypN": {
+   "value": "N0",
+   "docs": [
+    11
+   ],
+   "quote": "ypT1b ypN0",
+   "confidence": 100
+  },
+  "tumor_viable_pct": {
+   "value": "8",
+   "docs": [
+    11
+   ],
+   "quote": "foco residual de adenocarcinoma viable de 1,8 cm, aproximadamente 8% de tumor viable.",
+   "confidence": 100
+  },
+  "respuesta_patologica_mayor": {
+   "value": "1",
+   "docs": [
+    11
+   ],
+   "quote": "Respuesta patológica mayor.",
+   "confidence": 100
+  }
+ },
+ "model": "medgemma-27b",
+ "backend": "ollama",
+ "level": "N1",
+ "run": "s4",
+ "temperature": 0.7,
+ "seed": 104,
+ "think": "default",
+ "date": "2026-11-19 12:02"
+}

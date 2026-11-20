@@ -1,0 +1,48 @@
+15. Seguimiento radiológico y analítico
+Seguimiento oncológico
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+TC - 15/12/2026
+Cambios postoperatorios de lobectomía inferior derecha. Sin nódulos pulmonares nuevos. Sin adenopatías mediastínicas significativas. Sin lesiones a distancia. Sin evidencia radiológica de recaída.
+TC - 14/03/2027
+Aparece adenopatía subcarinal de 18 mm, de nueva aparición respecto al estudio previo. Pequeño ganglio 4R de 9 mm. Sin lesiones pulmonares nuevas. Sin metástasis hepáticas o suprarrenales. Hallazgos sospechosos de recaída ganglionar.
+PET-TC - 22/03/2027
+Adenopatía subcarinal intensamente hipermetabólica, SUVmáx 9,4. Discreta captación en 4R, SUVmáx 3,2, inespecífica. No otras localizaciones hipermetabólicas sugestivas de enfermedad tumoral activa.
+Marcadores séricos
+Fecha
+Analito
+Resultado
+Unidad
+Referencia
+Flag
+02/06/2026
+CEA
+3,4
+ng/mL
+&lt;5,0
+02/06/2026
+CYFRA 21-1
+2,1
+ng/mL
+&lt;3,3
+05/12/2026
+CEA
+3,6
+ng/mL
+&lt;5,0
+05/12/2026
+CYFRA 21-1
+2,0
+ng/mL
+&lt;3,3
+12/03/2027
+CEA
+8,9
+ng/mL
+&lt;5,0
+H
+12/03/2027
+CYFRA 21-1
+3,5
+ng/mL
+&lt;3,3
+H

@@ -1,0 +1,164 @@
+[
+ {
+  "field": "estancia_postop_dias",
+  "question": "Duración de la estancia hospitalaria tras la cirugía",
+  "type": "entero",
+  "coding": "días"
+ },
+ {
+  "field": "fuga_aerea_postop",
+  "question": "Existencia de fuga aérea postoperatoria",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "duracion_fuga_aerea_dias",
+  "question": "Duración estimada de la fuga aérea postoperatoria",
+  "type": "entero",
+  "coding": "días"
+ },
+ {
+  "field": "complicacion_postop",
+  "question": "Existencia de alguna complicación postoperatoria",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "complicacion_principal",
+  "question": "Complicación postoperatoria principal",
+  "type": "categórica",
+  "coding": "categoría clínica normalizada"
+ },
+ {
+  "field": "reintervencion_postop",
+  "question": "Necesidad de reintervención durante el ingreso",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "tratamiento_adyuvante",
+  "question": "Existencia de tratamiento sistémico adyuvante tras la cirugía",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "recaida",
+  "question": "Existencia de recaída oncológica durante el seguimiento",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "fecha_primera_recaida",
+  "question": "Fecha del diagnóstico confirmado de la primera recaída",
+  "type": "fecha",
+  "coding": "AAAA-MM-DD"
+ },
+ {
+  "field": "tipo_primera_recaida",
+  "question": "Tipo de primera recaída",
+  "type": "categórica",
+  "coding": "LOCAL / GANGLIONAR / DISTANCIA / MIXTA"
+ },
+ {
+  "field": "localizacion_primera_recaida",
+  "question": "Localización principal de la primera recaída",
+  "type": "categórica",
+  "coding": "localización normalizada"
+ },
+ {
+  "field": "recaida_confirmada_histologia",
+  "question": "Confirmación histológica de la primera recaída",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "histologia_recaida",
+  "question": "Histología de la primera recaída",
+  "type": "categórica",
+  "coding": "clasificación histológica"
+ },
+ {
+  "field": "tratamiento_primera_recaida",
+  "question": "Tratamiento principal administrado para la primera recaída",
+  "type": "categórica",
+  "coding": "tratamiento normalizado"
+ },
+ {
+  "field": "respuesta_primera_recaida",
+  "question": "Mejor respuesta documentada al tratamiento de la primera recaída",
+  "type": "categórica",
+  "coding": "RC / RP / EE / PD"
+ },
+ {
+  "field": "segunda_progresion",
+  "question": "Existencia de una segunda progresión después del tratamiento de la primera recaída",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "fecha_segunda_progresion",
+  "question": "Fecha de la segunda progresión",
+  "type": "fecha",
+  "coding": "AAAA-MM-DD"
+ },
+ {
+  "field": "tipo_segunda_progresion",
+  "question": "Tipo de segunda progresión",
+  "type": "categórica",
+  "coding": "LOCORREGIONAL / DISTANCIA / MIXTA"
+ },
+ {
+  "field": "organo_segunda_progresion",
+  "question": "Órgano principal afectado en la segunda progresión",
+  "type": "categórica",
+  "coding": "órgano normalizado"
+ },
+ {
+  "field": "segunda_progresion_confirmada_histologia",
+  "question": "Confirmación histológica de la segunda progresión",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "kras_g12c_recaida_metastasica",
+  "question": "Mutación KRAS G12C confirmada en la recaída metastásica",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "tratamiento_segunda_progresion",
+  "question": "Tratamiento sistémico iniciado tras la segunda progresión",
+  "type": "categórica",
+  "coding": "fármaco / estrategia"
+ },
+ {
+  "field": "respuesta_sotorasib",
+  "question": "Mejor respuesta documentada a sotorasib",
+  "type": "categórica",
+  "coding": "RC / RP / EE / PD"
+ },
+ {
+  "field": "estado_oncologico_final",
+  "question": "Estado oncológico en el último seguimiento disponible",
+  "type": "categórica",
+  "coding": "SIN ENFERMEDAD / RC / RP / EE / PD"
+ },
+ {
+  "field": "vivo_ultimo_seguimiento",
+  "question": "Situación vital en el último seguimiento disponible",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "fecha_ultimo_seguimiento",
+  "question": "Fecha del último seguimiento disponible",
+  "type": "fecha",
+  "coding": "AAAA-MM-DD"
+ },
+ {
+  "field": "tratamiento_activo_final",
+  "question": "Tratamiento activo en el último seguimiento",
+  "type": "categórica",
+  "coding": "tratamiento normalizado"
+ }
+]

@@ -1,0 +1,235 @@
+{
+ "content": "{\n  \"estancia_postop_dias\": {\n    \"value\": \"NO CONSTA\",\n    \"docs\": [],\n    \"quote\": \"\",\n    \"confidence\": 100\n  },\n  \"fuga_aerea_postop\": {\n    \"value\": \"1\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"fuga aérea con tos\",\n    \"confidence\": 100\n  },\n  \"duracion_fuga_aerea_dias\": {\n    \"value\": \"4\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Sin fuga aérea desde hace &gt;24 h.\",\n    \"confidence\": 100\n  },\n  \"complicacion_postop\": {\n    \"value\": \"1\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Episodio aislado de fibrilación auricular\",\n    \"confidence\": 100\n  },\n  \"complicacion_principal\": {\n    \"value\": \"FIBRILACION AURICULAR\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Episodio aislado de fibrilación auricular\",\n    \"confidence\": 100\n  },\n  \"reintervencion_postop\": {\n    \"value\": \"0\",\n    \"docs\": [],\n    \"quote\": \"\",\n    \"confidence\": 100\n  },\n  \"tratamiento_adyuvante\": {\n    \"value\": \"0\",\n    \"docs\": [\n      14\n    ],\n    \"quote\": \"No se indica quimioterapia adyuvante adicional.\",\n    \"confidence\": 100\n  },\n  \"recaida\": {\n    \"value\": \"1\",\n    \"docs\": [\n      15,\n      16\n    ],\n    \"quote\": \"Aparece adenopatía subcarinal de nueva aparición\",\n    \"confidence\": 100\n  },\n  \"fecha_primera_recaida\": {\n    \"value\": \"2027-03-15\",\n    \"docs\": [\n      15\n    ],\n    \"quote\": \"TC - 15/12/2026 Aparece adenopatía subcarinal de nueva aparición respecto al estudio previo.\",\n    \"confidence\": 100\n  },\n  \"tipo_primera_recaida\": {\n    \"value\": \"GANGLIONAR\",\n    \"docs\": [\n      15,\n      16\n    ],\n    \"quote\": \"Recaída ganglionar mediastínica aislada\",\n    \"confidence\": 100\n  },\n  \"localizacion_primera_recaida\": {\n    \"value\": \"MEDIASTINO\",\n    \"docs\": [\n      15,\n      16\n    ],\n    \"quote\": \"Aparece adenopatía subcarinal de nueva aparición\",\n    \"confidence\": 100\n  },\n  \"recaida_confirmada_histologia\": {\n    \"value\": \"1\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"Adenocarcinoma compatible con origen pulmonar.\",\n    \"confidence\": 100\n  },\n  \"histologia_recaida\": {\n    \"value\": \"ADENOCARCINOMA\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"Adenocarcinoma compatible con origen pulmonar.\",\n    \"confidence\": 100\n  },\n  \"tratamiento_primera_recaida\": {\n    \"value\": \"QUIMIORRADIOTERAPIA\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"Se decide tratamiento de rescate con quimiorradioterapia concomitante con intención radical.\",\n    \"confidence\": 100\n  },\n  \"respuesta_primera_recaida\": {\n    \"value\": \"RP\",\n    \"docs\": [\n      17\n    ],\n    \"quote\": \"Respuesta parcial radiológica.\",\n    \"confidence\": 100\n  },\n  \"segunda_progresion\": {\n    \"value\": \"1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Progresión metastásica hepática y pulmonar\",\n    \"confidence\": 100\n  },\n  \"fecha_segunda_progresion\": {\n    \"value\": \"2028-01-18\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"TC - 18/01/2028 Nueva lesión focal hepática\",\n    \"confidence\": 100\n  },\n  \"tipo_segunda_progresion\": {\n    \"value\": \"DISTANCIA\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Progresión metastásica hepática y pulmonar\",\n    \"confidence\": 100\n  },\n  \"organo_segunda_progresion\": {\n    \"value\": \"HIGADO\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Nueva lesión focal hepática\",\n    \"confidence\": 100\n  },\n  \"segunda_progresion_confirmada_histologia\": {\n    \"value\": \"1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Metástasis de adenocarcinoma pulmonar.\",\n    \"confidence\": 100\n  },\n  \"kras_g12c_recaida_metastasica\": {\n    \"value\": \"1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"KRAS G12C persistente.\",\n    \"confidence\": 100\n  },\n  \"tratamiento_segunda_progresion\": {\n    \"value\": \"SOTORASIB\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Se decide tratamiento sistémico dirigido frente a KRAS G12C. Inicio de sotorasib\",\n    \"confidence\": 100\n  },\n  \"respuesta_sotorasib\": {\n    \"value\": \"RP\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Reducción de la lesión hepática a 12 mm y desaparición del nódulo pulmonar contralateral. Respuesta parcial.\",\n    \"confidence\": 100\n  },\n  \"estado_oncologico_final\": {\n    \"value\": \"RP\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Respuesta parcial.\",\n    \"confidence\": 100\n  },\n  \"vivo_ultimo_seguimiento\": {\n    \"value\": \"1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Paciente vivo\",\n    \"confidence\": 100\n  },\n  \"fecha_ultimo_seguimiento\": {\n    \"value\": \"2028-09-20\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Último seguimiento - 20/09/2028\",\n    \"confidence\": 100\n  },\n  \"tratamiento_activo_final\": {\n    \"value\": \"SOTORASIB\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"en tratamiento con sotorasib.\",\n    \"confidence\": 100\n  }\n}",
+ "thinking_chars": 0,
+ "seconds": 159.5,
+ "usage": {
+  "prompt_eval_count": 6975,
+  "eval_count": 1768,
+  "total_duration": 159519613316
+ },
+ "parsed": {
+  "estancia_postop_dias": {
+   "value": "NO CONSTA",
+   "docs": [],
+   "quote": "",
+   "confidence": 100
+  },
+  "fuga_aerea_postop": {
+   "value": "1",
+   "docs": [
+    12
+   ],
+   "quote": "fuga aérea con tos",
+   "confidence": 100
+  },
+  "duracion_fuga_aerea_dias": {
+   "value": "4",
+   "docs": [
+    12
+   ],
+   "quote": "Sin fuga aérea desde hace &gt;24 h.",
+   "confidence": 100
+  },
+  "complicacion_postop": {
+   "value": "1",
+   "docs": [
+    12
+   ],
+   "quote": "Episodio aislado de fibrilación auricular",
+   "confidence": 100
+  },
+  "complicacion_principal": {
+   "value": "FIBRILACION AURICULAR",
+   "docs": [
+    12
+   ],
+   "quote": "Episodio aislado de fibrilación auricular",
+   "confidence": 100
+  },
+  "reintervencion_postop": {
+   "value": "0",
+   "docs": [],
+   "quote": "",
+   "confidence": 100
+  },
+  "tratamiento_adyuvante": {
+   "value": "0",
+   "docs": [
+    14
+   ],
+   "quote": "No se indica quimioterapia adyuvante adicional.",
+   "confidence": 100
+  },
+  "recaida": {
+   "value": "1",
+   "docs": [
+    15,
+    16
+   ],
+   "quote": "Aparece adenopatía subcarinal de nueva aparición",
+   "confidence": 100
+  },
+  "fecha_primera_recaida": {
+   "value": "2027-03-15",
+   "docs": [
+    15
+   ],
+   "quote": "TC - 15/12/2026 Aparece adenopatía subcarinal de nueva aparición respecto al estudio previo.",
+   "confidence": 100
+  },
+  "tipo_primera_recaida": {
+   "value": "GANGLIONAR",
+   "docs": [
+    15,
+    16
+   ],
+   "quote": "Recaída ganglionar mediastínica aislada",
+   "confidence": 100
+  },
+  "localizacion_primera_recaida": {
+   "value": "MEDIASTINO",
+   "docs": [
+    15,
+    16
+   ],
+   "quote": "Aparece adenopatía subcarinal de nueva aparición",
+   "confidence": 100
+  },
+  "recaida_confirmada_histologia": {
+   "value": "1",
+   "docs": [
+    16
+   ],
+   "quote": "Adenocarcinoma compatible con origen pulmonar.",
+   "confidence": 100
+  },
+  "histologia_recaida": {
+   "value": "ADENOCARCINOMA",
+   "docs": [
+    16
+   ],
+   "quote": "Adenocarcinoma compatible con origen pulmonar.",
+   "confidence": 100
+  },
+  "tratamiento_primera_recaida": {
+   "value": "QUIMIORRADIOTERAPIA",
+   "docs": [
+    16
+   ],
+   "quote": "Se decide tratamiento de rescate con quimiorradioterapia concomitante con intención radical.",
+   "confidence": 100
+  },
+  "respuesta_primera_recaida": {
+   "value": "RP",
+   "docs": [
+    17
+   ],
+   "quote": "Respuesta parcial radiológica.",
+   "confidence": 100
+  },
+  "segunda_progresion": {
+   "value": "1",
+   "docs": [
+    18
+   ],
+   "quote": "Progresión metastásica hepática y pulmonar",
+   "confidence": 100
+  },
+  "fecha_segunda_progresion": {
+   "value": "2028-01-18",
+   "docs": [
+    18
+   ],
+   "quote": "TC - 18/01/2028 Nueva lesión focal hepática",
+   "confidence": 100
+  },
+  "tipo_segunda_progresion": {
+   "value": "DISTANCIA",
+   "docs": [
+    18
+   ],
+   "quote": "Progresión metastásica hepática y pulmonar",
+   "confidence": 100
+  },
+  "organo_segunda_progresion": {
+   "value": "HIGADO",
+   "docs": [
+    18
+   ],
+   "quote": "Nueva lesión focal hepática",
+   "confidence": 100
+  },
+  "segunda_progresion_confirmada_histologia": {
+   "value": "1",
+   "docs": [
+    18
+   ],
+   "quote": "Metástasis de adenocarcinoma pulmonar.",
+   "confidence": 100
+  },
+  "kras_g12c_recaida_metastasica": {
+   "value": "1",
+   "docs": [
+    18
+   ],
+   "quote": "KRAS G12C persistente.",
+   "confidence": 100
+  },
+  "tratamiento_segunda_progresion": {
+   "value": "SOTORASIB",
+   "docs": [
+    18
+   ],
+   "quote": "Se decide tratamiento sistémico dirigido frente a KRAS G12C. Inicio de sotorasib",
+   "confidence": 100
+  },
+  "respuesta_sotorasib": {
+   "value": "RP",
+   "docs": [
+    18
+   ],
+   "quote": "Reducción de la lesión hepática a 12 mm y desaparición del nódulo pulmonar contralateral. Respuesta parcial.",
+   "confidence": 100
+  },
+  "estado_oncologico_final": {
+   "value": "RP",
+   "docs": [
+    18
+   ],
+   "quote": "Respuesta parcial.",
+   "confidence": 100
+  },
+  "vivo_ultimo_seguimiento": {
+   "value": "1",
+   "docs": [
+    18
+   ],
+   "quote": "Paciente vivo",
+   "confidence": 100
+  },
+  "fecha_ultimo_seguimiento": {
+   "value": "2028-09-20",
+   "docs": [
+    18
+   ],
+   "quote": "Último seguimiento - 20/09/2028",
+   "confidence": 100
+  },
+  "tratamiento_activo_final": {
+   "value": "SOTORASIB",
+   "docs": [
+    18
+   ],
+   "quote": "en tratamiento con sotorasib.",
+   "confidence": 100
+  }
+ },
+ "model": "medgemma-27b",
+ "backend": "ollama",
+ "level": "N2",
+ "run": "greedy",
+ "temperature": 0.0,
+ "seed": 1,
+ "think": "default",
+ "date": "2026-11-19 12:09"
+}

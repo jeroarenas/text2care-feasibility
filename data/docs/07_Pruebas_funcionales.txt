@@ -1,0 +1,9 @@
+07. Pruebas funcionales respiratorias
+Laboratorio de función pulmonar - 11/02/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Espirometría
+FVC 3,78 L (94% del predicho). FEV1 2,83 L (88% del predicho). FEV1/FVC 0,75. Sin respuesta broncodilatadora significativa.
+Difusión
+DLCO corregida 81% del valor predicho.
+Valoración
+Función respiratoria conservada para eventual resección anatómica. No se considera indicada prueba de esfuerzo cardiopulmonar en este momento.

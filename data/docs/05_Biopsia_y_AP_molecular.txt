@@ -1,0 +1,12 @@
+05. Biopsia pulmonar y estudio anatomopatológico
+Radiología intervencionista / Anatomía Patológica - informe final 04/02/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Procedimiento
+30/01/2026. Biopsia percutánea guiada por TC de la masa del lóbulo inferior derecho. Se obtienen cuatro cilindros. Sin neumotórax significativo en control inmediato.
+Diagnóstico anatomopatológico
+Cilindros de parénquima pulmonar infiltrados por adenocarcinoma pulmonar moderadamente diferenciado, con patrón acinar predominante.
+Inmunohistoquímica: TTF-1 positivo; Napsina A positiva; p40 negativo.
+Biomarcadores
+PD-L1 (22C3): TPS 35%.EGFR: no se detectan mutaciones sensibilizantes en los exones estudiados.ALK: sin reordenamiento detectable.ROS1: sin reordenamiento detectable.KRAS: mutación p.G12C detectada.
+Comentario
+Los hallazgos son compatibles con adenocarcinoma pulmonar primario. Material suficiente para estudios realizados.

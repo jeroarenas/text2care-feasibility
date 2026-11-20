@@ -1,0 +1,9 @@
+16. Confirmación de recaída y comité
+Neumología intervencionista / AP / Comité
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+EBUS - 28/03/2027
+Se punciona estación 7 y estación 4R. Estación 7: muestra representativa positiva para adenocarcinoma. Estación 4R: material linfoide representativo negativo para malignidad.
+Anatomía patológica
+Adenocarcinoma compatible con origen pulmonar. TTF-1 positivo. PD-L1 TPS 70%. KRAS G12C persistente. EGFR no mutado.
+Comité multidisciplinar - 04/04/2027
+Recaída ganglionar mediastínica aislada, histológicamente confirmada en estación 7, sin enfermedad a distancia en PET-TC. Se considera candidata a tratamiento de rescate con quimiorradioterapia concomitante con intención radical.

@@ -1,0 +1,290 @@
+[
+ {
+  "field": "edad_diagnostico",
+  "question": "Edad del paciente en años en el momento del diagnóstico inicial",
+  "type": "entero",
+  "coding": "años"
+ },
+ {
+  "field": "peso_kg",
+  "question": "Peso del paciente más próximo al inicio del estudio diagnóstico",
+  "type": "decimal",
+  "coding": "kg"
+ },
+ {
+  "field": "talla_cm",
+  "question": "Talla del paciente",
+  "type": "entero",
+  "coding": "cm"
+ },
+ {
+  "field": "icat_pa",
+  "question": "Consumo acumulado de tabaco expresado como paquetes-año (ICAT)",
+  "type": "decimal",
+  "coding": "paquetes-año"
+ },
+ {
+  "field": "edad_inicio_tabaco",
+  "question": "Edad de inicio del consumo habitual de tabaco",
+  "type": "intervalo",
+  "coding": "años"
+ },
+ {
+  "field": "precision_edad_inicio",
+  "question": "Grado de precisión con el que puede establecerse la edad de inicio del tabaquismo",
+  "type": "categórica",
+  "coding": "EXACTA / INTERVALO / APROXIMADA / NO_DETERMINABLE"
+ },
+ {
+  "field": "primer_sintoma",
+  "question": "Primer síntoma atribuible al proceso oncológico",
+  "type": "categórica",
+  "coding": "categoría clínica normalizada"
+ },
+ {
+  "field": "fecha_primer_sintoma",
+  "question": "Mejor fecha o intervalo identificable para el inicio del primer síntoma",
+  "type": "fecha/intervalo",
+  "coding": "texto temporal normalizado"
+ },
+ {
+  "field": "fecha_hemoptisis",
+  "question": "Fecha del episodio de hemoptisis que motivó el estudio",
+  "type": "fecha",
+  "coding": "AAAA-MM-DD"
+ },
+ {
+  "field": "diametro_tac_mm",
+  "question": "Diámetro máximo de la lesión pulmonar sospechosa en el TAC diagnóstico",
+  "type": "decimal",
+  "coding": "mm"
+ },
+ {
+  "field": "diametro_pet_mm",
+  "question": "Diámetro máximo de la lesión hipermetabólica en PET-TC",
+  "type": "decimal",
+  "coding": "mm"
+ },
+ {
+  "field": "suvmax_primario",
+  "question": "SUV máximo de la lesión pulmonar primaria en PET-TC",
+  "type": "decimal",
+  "coding": "sin unidad"
+ },
+ {
+  "field": "adenopatias_patologicas_tac",
+  "question": "Existencia de adenopatías sospechosas o patológicas en TAC",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "adenopatias_patologicas_pet",
+  "question": "Existencia de adenopatías sospechosas o patológicas en PET-TC",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "biopsia_previa",
+  "question": "Existencia de biopsia diagnóstica previa a cirugía",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "medio_biopsia",
+  "question": "Técnica empleada para obtener la biopsia diagnóstica previa a cirugía",
+  "type": "categórica",
+  "coding": "texto normalizado"
+ },
+ {
+  "field": "histologia_preoperatoria",
+  "question": "Histología obtenida en la biopsia preoperatoria",
+  "type": "categórica",
+  "coding": "clasificación histológica"
+ },
+ {
+  "field": "pdl1_preop_pct",
+  "question": "Expresión de PD-L1 en la muestra preoperatoria",
+  "type": "decimal",
+  "coding": "% TPS"
+ },
+ {
+  "field": "egfr_preop",
+  "question": "Resultado de EGFR en la muestra preoperatoria",
+  "type": "categórica",
+  "coding": "mutación / no mutado / no realizado"
+ },
+ {
+  "field": "kras_preop",
+  "question": "Resultado de KRAS en la muestra preoperatoria",
+  "type": "categórica",
+  "coding": "mutación / no mutado / no realizado"
+ },
+ {
+  "field": "estadificacion_invasiva",
+  "question": "Realización de estadificación invasiva mediastínica",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "medio_estadificacion",
+  "question": "Técnica empleada para la estadificación invasiva mediastínica",
+  "type": "categórica",
+  "coding": "técnica normalizada"
+ },
+ {
+  "field": "n_territorios_biopsiados",
+  "question": "Número de territorios ganglionares biopsiados durante la estadificación",
+  "type": "entero",
+  "coding": "n"
+ },
+ {
+  "field": "n2_confirmado_invasivo",
+  "question": "Existencia de enfermedad N2 confirmada por muestreo invasivo",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "calidad_estadificacion",
+  "question": "Calidad global de la estadificación invasiva",
+  "type": "categórica",
+  "coding": "ADECUADA / PARCIALMENTE_LIMITADA / INSUFICIENTE"
+ },
+ {
+  "field": "cT",
+  "question": "Categoría T clínica antes de tratamiento",
+  "type": "categórica",
+  "coding": "TNM"
+ },
+ {
+  "field": "cN",
+  "question": "Categoría N clínica antes de tratamiento",
+  "type": "categórica",
+  "coding": "TNM"
+ },
+ {
+  "field": "cM",
+  "question": "Categoría M clínica antes de tratamiento",
+  "type": "categórica",
+  "coding": "TNM"
+ },
+ {
+  "field": "c_estadio",
+  "question": "Estadio clínico global antes de tratamiento",
+  "type": "categórica",
+  "coding": "estadio TNM"
+ },
+ {
+  "field": "fev1_pct",
+  "question": "FEV1 preoperatorio como porcentaje del predicho",
+  "type": "decimal",
+  "coding": "%"
+ },
+ {
+  "field": "dlco_pct",
+  "question": "DLCO preoperatoria como porcentaje del predicho",
+  "type": "decimal",
+  "coding": "%"
+ },
+ {
+  "field": "test_esfuerzo_realizado",
+  "question": "Realización de prueba de esfuerzo cardiopulmonar",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "cea_basal",
+  "question": "CEA sérico basal",
+  "type": "decimal",
+  "coding": "ng/mL"
+ },
+ {
+  "field": "cyfra_basal",
+  "question": "CYFRA 21-1 sérico basal",
+  "type": "decimal",
+  "coding": "ng/mL"
+ },
+ {
+  "field": "neoadyuvancia",
+  "question": "Recepción de tratamiento neoadyuvante",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "tipo_neoadyuvancia",
+  "question": "Tipo de tratamiento neoadyuvante",
+  "type": "categórica",
+  "coding": "QT / IO / QT+IO / RT / TKI / etc."
+ },
+ {
+  "field": "ciclos_neoadyuvancia",
+  "question": "Número de ciclos neoadyuvantes completados",
+  "type": "entero",
+  "coding": "ciclos"
+ },
+ {
+  "field": "respuesta_neoadyuvancia",
+  "question": "Respuesta radiológica tras neoadyuvancia",
+  "type": "categórica",
+  "coding": "RC / RP / EE / PD"
+ },
+ {
+  "field": "ycT",
+  "question": "Categoría T clínica tras neoadyuvancia",
+  "type": "categórica",
+  "coding": "TNM"
+ },
+ {
+  "field": "ycN",
+  "question": "Categoría N clínica tras neoadyuvancia",
+  "type": "categórica",
+  "coding": "TNM"
+ },
+ {
+  "field": "reseccion_practicada",
+  "question": "Resección pulmonar practicada",
+  "type": "categórica",
+  "coding": "procedimiento normalizado"
+ },
+ {
+  "field": "abordaje_inicial",
+  "question": "Abordaje quirúrgico inicial",
+  "type": "categórica",
+  "coding": "VATS / robótico / abierto / etc."
+ },
+ {
+  "field": "abordaje_final",
+  "question": "Abordaje quirúrgico final",
+  "type": "categórica",
+  "coding": "VATS / robótico / abierto / etc."
+ },
+ {
+  "field": "conversion",
+  "question": "Conversión a cirugía abierta",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ },
+ {
+  "field": "ypT",
+  "question": "Categoría T patológica postratamiento",
+  "type": "categórica",
+  "coding": "TNM"
+ },
+ {
+  "field": "ypN",
+  "question": "Categoría N patológica postratamiento",
+  "type": "categórica",
+  "coding": "TNM"
+ },
+ {
+  "field": "tumor_viable_pct",
+  "question": "Porcentaje de tumor viable residual",
+  "type": "decimal",
+  "coding": "%"
+ },
+ {
+  "field": "respuesta_patologica_mayor",
+  "question": "Respuesta patológica mayor",
+  "type": "binaria",
+  "coding": "0=No; 1=Sí"
+ }
+]

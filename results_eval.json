@@ -1,0 +1,3070 @@
+{
+ "gpt_oss_120b": {
+  "N1": {
+   "rows": [
+    {
+     "field": "edad_diagnostico",
+     "verdict": "ok",
+     "value": "67",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "peso_kg",
+     "verdict": "ok",
+     "value": "71",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "talla_cm",
+     "verdict": "ok",
+     "value": "173",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "icat_pa",
+     "verdict": "ok",
+     "value": "55.6",
+     "conf": 80,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "edad_inicio_tabaco",
+     "verdict": "ok",
+     "value": "18-19",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "precision_edad_inicio",
+     "verdict": "ok",
+     "value": "INTERVALO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "primer_sintoma",
+     "verdict": "ok",
+     "value": "TOS",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "fecha_primer_sintoma",
+     "verdict": "ok",
+     "value": "2025-10-01/2025-12-31",
+     "conf": 80,
+     "agree": 0.8,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "fecha_hemoptisis",
+     "verdict": "ok",
+     "value": "2026-01-12",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "diametro_tac_mm",
+     "verdict": "ok",
+     "value": "46",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      3
+     ]
+    },
+    {
+     "field": "diametro_pet_mm",
+     "verdict": "ok",
+     "value": "44",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "suvmax_primario",
+     "verdict": "ok",
+     "value": "14.6",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "adenopatias_patologicas_tac",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      3
+     ]
+    },
+    {
+     "field": "adenopatias_patologicas_pet",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "biopsia_previa",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "medio_biopsia",
+     "verdict": "ok",
+     "value": "TC guiada",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "histologia_preoperatoria",
+     "verdict": "ok",
+     "value": "ADENOCARCINOMA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "pdl1_preop_pct",
+     "verdict": "ok",
+     "value": "35",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "egfr_preop",
+     "verdict": "ok",
+     "value": "no mutado",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "kras_preop",
+     "verdict": "schema",
+     "value": "mutación",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "estadificacion_invasiva",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "medio_estadificacion",
+     "verdict": "ok",
+     "value": "EBUS",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "n_territorios_biopsiados",
+     "verdict": "ok",
+     "value": "3",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "n2_confirmado_invasivo",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "calidad_estadificacion",
+     "verdict": "err",
+     "value": "ADECUADA",
+     "conf": 80,
+     "agree": 0.4,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "cT",
+     "verdict": "ok",
+     "value": "T2b",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "cN",
+     "verdict": "ok",
+     "value": "N2",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "cM",
+     "verdict": "ok",
+     "value": "M0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "c_estadio",
+     "verdict": "ok",
+     "value": "IIIA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "fev1_pct",
+     "verdict": "ok",
+     "value": "88",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "dlco_pct",
+     "verdict": "ok",
+     "value": "81",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "test_esfuerzo_realizado",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "cea_basal",
+     "verdict": "ok",
+     "value": "12.8",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      2
+     ]
+    },
+    {
+     "field": "cyfra_basal",
+     "verdict": "ok",
+     "value": "2.7",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      2
+     ]
+    },
+    {
+     "field": "neoadyuvancia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "tipo_neoadyuvancia",
+     "verdict": "ok",
+     "value": "QT+IO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "ciclos_neoadyuvancia",
+     "verdict": "ok",
+     "value": "3",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "respuesta_neoadyuvancia",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "ycT",
+     "verdict": "ok",
+     "value": "T1c",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "ycN",
+     "verdict": "ok",
+     "value": "N0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "reseccion_practicada",
+     "verdict": "ok",
+     "value": "LOBECTOMÍA INFERIOR DERECHA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "abordaje_inicial",
+     "verdict": "ok",
+     "value": "VATS",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "abordaje_final",
+     "verdict": "ok",
+     "value": "ABIERTO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "conversion",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "ypT",
+     "verdict": "ok",
+     "value": "T1b",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "ypN",
+     "verdict": "ok",
+     "value": "N0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "tumor_viable_pct",
+     "verdict": "ok",
+     "value": "8",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "respuesta_patologica_mayor",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    }
+   ],
+   "n_samples": 5
+  },
+  "N2": {
+   "rows": [
+    {
+     "field": "estancia_postop_dias",
+     "verdict": "ok",
+     "value": "7",
+     "conf": 95,
+     "agree": 0.8,
+     "docs": [
+      10,
+      13
+     ]
+    },
+    {
+     "field": "fuga_aerea_postop",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "duracion_fuga_aerea_dias",
+     "verdict": "err",
+     "value": "5",
+     "conf": 90,
+     "agree": 0.8,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "complicacion_postop",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      12,
+      13
+     ]
+    },
+    {
+     "field": "complicacion_principal",
+     "verdict": "ok",
+     "value": "FIBRILACION AURICULAR",
+     "conf": 90,
+     "agree": 0.4,
+     "docs": [
+      12,
+      13
+     ]
+    },
+    {
+     "field": "reintervencion_postop",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "tratamiento_adyuvante",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      14
+     ]
+    },
+    {
+     "field": "recaida",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "fecha_primera_recaida",
+     "verdict": "ok",
+     "value": "2027-03-28",
+     "conf": 90,
+     "agree": 0.8,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "tipo_primera_recaida",
+     "verdict": "ok",
+     "value": "GANGLIONAR",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "localizacion_primera_recaida",
+     "verdict": "ok",
+     "value": "ESTACION 7",
+     "conf": 90,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "recaida_confirmada_histologia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "histologia_recaida",
+     "verdict": "ok",
+     "value": "ADENOCARCINOMA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "tratamiento_primera_recaida",
+     "verdict": "ok",
+     "value": "QUIMIORADIOTERAPIA",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      17
+     ]
+    },
+    {
+     "field": "respuesta_primera_recaida",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      17
+     ]
+    },
+    {
+     "field": "segunda_progresion",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "fecha_segunda_progresion",
+     "verdict": "ok",
+     "value": "2028-01-18",
+     "conf": 95,
+     "agree": 0.8,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tipo_segunda_progresion",
+     "verdict": "ok",
+     "value": "DISTANCIA",
+     "conf": 90,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "organo_segunda_progresion",
+     "verdict": "ok",
+     "value": "HIGADO",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "segunda_progresion_confirmada_histologia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "kras_g12c_recaida_metastasica",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tratamiento_segunda_progresion",
+     "verdict": "ok",
+     "value": "SOTORASIB",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "respuesta_sotorasib",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "estado_oncologico_final",
+     "verdict": "ok",
+     "value": "EE",
+     "conf": 90,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "vivo_ultimo_seguimiento",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "fecha_ultimo_seguimiento",
+     "verdict": "ok",
+     "value": "2028-09-20",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tratamiento_activo_final",
+     "verdict": "ok",
+     "value": "SOTORASIB",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    }
+   ],
+   "n_samples": 5
+  }
+ },
+ "qwen3_32b": {
+  "N1": {
+   "rows": [
+    {
+     "field": "edad_diagnostico",
+     "verdict": "err",
+     "value": "math.floor(2026 - 1959)",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "peso_kg",
+     "verdict": "ok",
+     "value": "71",
+     "conf": 100,
+     "agree": 0.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "talla_cm",
+     "verdict": "ok",
+     "value": "173",
+     "conf": 100,
+     "agree": 0.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "icat_pa",
+     "verdict": "err",
+     "value": "80",
+     "conf": 90,
+     "agree": 0.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "edad_inicio_tabaco",
+     "verdict": "ok",
+     "value": "18-19",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "precision_edad_inicio",
+     "verdict": "ok",
+     "value": "INTERVALO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "primer_sintoma",
+     "verdict": "ok",
+     "value": "TOS SECA INTERMITENTE",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "fecha_primer_sintoma",
+     "verdict": "err",
+     "value": "2025-11-01",
+     "conf": 90,
+     "agree": 0.2,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "fecha_hemoptisis",
+     "verdict": "ok",
+     "value": "2026-01-12",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "diametro_tac_mm",
+     "verdict": "ok",
+     "value": "46",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      3
+     ]
+    },
+    {
+     "field": "diametro_pet_mm",
+     "verdict": "ok",
+     "value": "44",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "suvmax_primario",
+     "verdict": "ok",
+     "value": "14.6",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "adenopatias_patologicas_tac",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      3
+     ]
+    },
+    {
+     "field": "adenopatias_patologicas_pet",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "biopsia_previa",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "medio_biopsia",
+     "verdict": "ok",
+     "value": "BIOPSIA PERCUTÁNEA GUIADA POR TC",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "histologia_preoperatoria",
+     "verdict": "ok",
+     "value": "ADENOCARCINOMA PULMONAR MODERADAMENTE DIFERENCIADO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "pdl1_preop_pct",
+     "verdict": "ok",
+     "value": "35",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "egfr_preop",
+     "verdict": "ok",
+     "value": "NO MUTADO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "kras_preop",
+     "verdict": "schema",
+     "value": "MUTACIÓN",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "estadificacion_invasiva",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "medio_estadificacion",
+     "verdict": "ok",
+     "value": "EBUS",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "n_territorios_biopsiados",
+     "verdict": "ok",
+     "value": "3",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "n2_confirmado_invasivo",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "calidad_estadificacion",
+     "verdict": "ok",
+     "value": "PARCIALMENTE_LIMITADA",
+     "conf": 90,
+     "agree": 0.6,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "cT",
+     "verdict": "ok",
+     "value": "T2b",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "cN",
+     "verdict": "ok",
+     "value": "N2",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "cM",
+     "verdict": "ok",
+     "value": "M0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "c_estadio",
+     "verdict": "ok",
+     "value": "IIIA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "fev1_pct",
+     "verdict": "ok",
+     "value": "88",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "dlco_pct",
+     "verdict": "ok",
+     "value": "81",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "test_esfuerzo_realizado",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "cea_basal",
+     "verdict": "ok",
+     "value": "12.8",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      2
+     ]
+    },
+    {
+     "field": "cyfra_basal",
+     "verdict": "ok",
+     "value": "2.7",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      2
+     ]
+    },
+    {
+     "field": "neoadyuvancia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "tipo_neoadyuvancia",
+     "verdict": "ok",
+     "value": "QT+IO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "ciclos_neoadyuvancia",
+     "verdict": "ok",
+     "value": "3",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "respuesta_neoadyuvancia",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "ycT",
+     "verdict": "ok",
+     "value": "T1c",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "ycN",
+     "verdict": "ok",
+     "value": "N0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "reseccion_practicada",
+     "verdict": "ok",
+     "value": "LOBECTOMÍA INFERIOR DERECHA",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "abordaje_inicial",
+     "verdict": "ok",
+     "value": "VATS",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "abordaje_final",
+     "verdict": "ok",
+     "value": "ABIERTO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "conversion",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "ypT",
+     "verdict": "ok",
+     "value": "T1b",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "ypN",
+     "verdict": "ok",
+     "value": "N0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "tumor_viable_pct",
+     "verdict": "ok",
+     "value": "8",
+     "conf": 100,
+     "agree": 0.2,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "respuesta_patologica_mayor",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      11
+     ]
+    }
+   ],
+   "n_samples": 5
+  },
+  "N2": {
+   "rows": [
+    {
+     "field": "estancia_postop_dias",
+     "verdict": "err",
+     "value": "math.floor(13 - 6)",
+     "conf": 95,
+     "agree": 0.2,
+     "docs": [
+      13
+     ]
+    },
+    {
+     "field": "fuga_aerea_postop",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      12,
+      13
+     ]
+    },
+    {
+     "field": "duracion_fuga_aerea_dias",
+     "verdict": "err",
+     "value": "5",
+     "conf": 90,
+     "agree": 0.2,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "complicacion_postop",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 95,
+     "agree": 0.8,
+     "docs": [
+      12,
+      13
+     ]
+    },
+    {
+     "field": "complicacion_principal",
+     "verdict": "err",
+     "value": "ARRITMIA POSTOPERATORIA",
+     "conf": 95,
+     "agree": 0.2,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "reintervencion_postop",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      13
+     ]
+    },
+    {
+     "field": "tratamiento_adyuvante",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 95,
+     "agree": 0.8,
+     "docs": [
+      14
+     ]
+    },
+    {
+     "field": "recaida",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "fecha_primera_recaida",
+     "verdict": "schema",
+     "value": "2027-03-22",
+     "conf": 98,
+     "agree": 0.4,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "tipo_primera_recaida",
+     "verdict": "ok",
+     "value": "GANGLIONAR",
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "localizacion_primera_recaida",
+     "verdict": "err",
+     "value": "MEDIASTINO",
+     "conf": 98,
+     "agree": 0.4,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "recaida_confirmada_histologia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "histologia_recaida",
+     "verdict": "ok",
+     "value": "ADENOCARCINOMA",
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "tratamiento_primera_recaida",
+     "verdict": "ok",
+     "value": "QUIMIORRADIOTERAPIA CONCOMITANTE",
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      17
+     ]
+    },
+    {
+     "field": "respuesta_primera_recaida",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      17
+     ]
+    },
+    {
+     "field": "segunda_progresion",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "fecha_segunda_progresion",
+     "verdict": "ok",
+     "value": "2028-01-18",
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tipo_segunda_progresion",
+     "verdict": "ok",
+     "value": "DISTANCIA",
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "organo_segunda_progresion",
+     "verdict": "ok",
+     "value": "HIGADO",
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "segunda_progresion_confirmada_histologia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "kras_g12c_recaida_metastasica",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tratamiento_segunda_progresion",
+     "verdict": "ok",
+     "value": "SOTORASIB",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "respuesta_sotorasib",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "estado_oncologico_final",
+     "verdict": "ok",
+     "value": "EE",
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "vivo_ultimo_seguimiento",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "fecha_ultimo_seguimiento",
+     "verdict": "ok",
+     "value": "2028-09-20",
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tratamiento_activo_final",
+     "verdict": "ok",
+     "value": "SOTORASIB",
+     "conf": 98,
+     "agree": 0.8,
+     "docs": [
+      18
+     ]
+    }
+   ],
+   "n_samples": 5
+  }
+ },
+ "medgemma_27b": {
+  "N1": {
+   "rows": [
+    {
+     "field": "edad_diagnostico",
+     "verdict": "ok",
+     "value": "67",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "peso_kg",
+     "verdict": "ok",
+     "value": "71",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "talla_cm",
+     "verdict": "ok",
+     "value": "173",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "icat_pa",
+     "verdict": "err",
+     "value": "44",
+     "conf": 80,
+     "agree": 0.6,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "edad_inicio_tabaco",
+     "verdict": "ok",
+     "value": "18-19",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "precision_edad_inicio",
+     "verdict": "ok",
+     "value": "INTERVALO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "primer_sintoma",
+     "verdict": "ok",
+     "value": "tos seca",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "fecha_primer_sintoma",
+     "verdict": "err",
+     "value": "2025-10",
+     "conf": 80,
+     "agree": 0.2,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "fecha_hemoptisis",
+     "verdict": "ok",
+     "value": "2026-01-12",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "diametro_tac_mm",
+     "verdict": "ok",
+     "value": "46",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      3
+     ]
+    },
+    {
+     "field": "diametro_pet_mm",
+     "verdict": "ok",
+     "value": "44",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "suvmax_primario",
+     "verdict": "ok",
+     "value": "14.6",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "adenopatias_patologicas_tac",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      3
+     ]
+    },
+    {
+     "field": "adenopatias_patologicas_pet",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "biopsia_previa",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "medio_biopsia",
+     "verdict": "ok",
+     "value": "percutánea guiada por TC",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "histologia_preoperatoria",
+     "verdict": "ok",
+     "value": "adenocarcinoma pulmonar",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "pdl1_preop_pct",
+     "verdict": "ok",
+     "value": "35",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "egfr_preop",
+     "verdict": "ok",
+     "value": "no mutado",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "kras_preop",
+     "verdict": "schema",
+     "value": "mutación",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "estadificacion_invasiva",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "medio_estadificacion",
+     "verdict": "ok",
+     "value": "EBUS",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "n_territorios_biopsiados",
+     "verdict": "ok",
+     "value": "3",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "n2_confirmado_invasivo",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "calidad_estadificacion",
+     "verdict": "err",
+     "value": "INSUFICIENTE",
+     "conf": 80,
+     "agree": 0.6,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "cT",
+     "verdict": "ok",
+     "value": "T2b",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "cN",
+     "verdict": "ok",
+     "value": "N2",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "cM",
+     "verdict": "ok",
+     "value": "M0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "c_estadio",
+     "verdict": "ok",
+     "value": "IIIA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "fev1_pct",
+     "verdict": "ok",
+     "value": "88",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "dlco_pct",
+     "verdict": "ok",
+     "value": "81",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "test_esfuerzo_realizado",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "cea_basal",
+     "verdict": "ok",
+     "value": "12.8",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      2
+     ]
+    },
+    {
+     "field": "cyfra_basal",
+     "verdict": "ok",
+     "value": "2.7",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      2
+     ]
+    },
+    {
+     "field": "neoadyuvancia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "tipo_neoadyuvancia",
+     "verdict": "ok",
+     "value": "QT+IO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "ciclos_neoadyuvancia",
+     "verdict": "ok",
+     "value": "3",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "respuesta_neoadyuvancia",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "ycT",
+     "verdict": "err",
+     "value": "T1b",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "ycN",
+     "verdict": "ok",
+     "value": "N0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "reseccion_practicada",
+     "verdict": "ok",
+     "value": "lobectomía inferior derecha",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "abordaje_inicial",
+     "verdict": "ok",
+     "value": "VATS",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "abordaje_final",
+     "verdict": "ok",
+     "value": "abierto",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "conversion",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "ypT",
+     "verdict": "ok",
+     "value": "T1b",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "ypN",
+     "verdict": "ok",
+     "value": "N0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "tumor_viable_pct",
+     "verdict": "ok",
+     "value": "8",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "respuesta_patologica_mayor",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    }
+   ],
+   "n_samples": 5
+  },
+  "N2": {
+   "rows": [
+    {
+     "field": "estancia_postop_dias",
+     "verdict": "err",
+     "value": "NO CONSTA",
+     "conf": 100,
+     "agree": 0.4,
+     "docs": []
+    },
+    {
+     "field": "fuga_aerea_postop",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "duracion_fuga_aerea_dias",
+     "verdict": "ok",
+     "value": "4",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "complicacion_postop",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "complicacion_principal",
+     "verdict": "ok",
+     "value": "FIBRILACION AURICULAR",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "reintervencion_postop",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": []
+    },
+    {
+     "field": "tratamiento_adyuvante",
+     "verdict": "ok",
+     "value": "0",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      14
+     ]
+    },
+    {
+     "field": "recaida",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "fecha_primera_recaida",
+     "verdict": "err",
+     "value": "2027-03-15",
+     "conf": 100,
+     "agree": 0.0,
+     "docs": [
+      15
+     ]
+    },
+    {
+     "field": "tipo_primera_recaida",
+     "verdict": "ok",
+     "value": "GANGLIONAR",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "localizacion_primera_recaida",
+     "verdict": "err",
+     "value": "MEDIASTINO",
+     "conf": 100,
+     "agree": 0.6,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "recaida_confirmada_histologia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "histologia_recaida",
+     "verdict": "ok",
+     "value": "ADENOCARCINOMA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "tratamiento_primera_recaida",
+     "verdict": "ok",
+     "value": "QUIMIORRADIOTERAPIA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "respuesta_primera_recaida",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      17
+     ]
+    },
+    {
+     "field": "segunda_progresion",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "fecha_segunda_progresion",
+     "verdict": "ok",
+     "value": "2028-01-18",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tipo_segunda_progresion",
+     "verdict": "ok",
+     "value": "DISTANCIA",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "organo_segunda_progresion",
+     "verdict": "ok",
+     "value": "HIGADO",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "segunda_progresion_confirmada_histologia",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "kras_g12c_recaida_metastasica",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tratamiento_segunda_progresion",
+     "verdict": "ok",
+     "value": "SOTORASIB",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "respuesta_sotorasib",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "estado_oncologico_final",
+     "verdict": "err",
+     "value": "RP",
+     "conf": 100,
+     "agree": 0.8,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "vivo_ultimo_seguimiento",
+     "verdict": "ok",
+     "value": "1",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "fecha_ultimo_seguimiento",
+     "verdict": "ok",
+     "value": "2028-09-20",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tratamiento_activo_final",
+     "verdict": "ok",
+     "value": "SOTORASIB",
+     "conf": 100,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    }
+   ],
+   "n_samples": 5
+  }
+ },
+ "claude_opus_5_5": {
+  "N1": {
+   "rows": [
+    {
+     "field": "edad_diagnostico",
+     "verdict": "ok",
+     "value": 67,
+     "conf": 88,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "peso_kg",
+     "verdict": "ok",
+     "value": 71,
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "talla_cm",
+     "verdict": "ok",
+     "value": 173,
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "icat_pa",
+     "verdict": "ok",
+     "value": "55-56 (aproximado)",
+     "conf": 55,
+     "agree": 0.6,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "edad_inicio_tabaco",
+     "verdict": "ok",
+     "value": "18-19",
+     "conf": 85,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "precision_edad_inicio",
+     "verdict": "ok",
+     "value": "INTERVALO",
+     "conf": 70,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "primer_sintoma",
+     "verdict": "ok",
+     "value": "TOS",
+     "conf": 85,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "fecha_primer_sintoma",
+     "verdict": "ok",
+     "value": "2025-11/2025-12 (finales de otoño de 2025, aproximada)",
+     "conf": 65,
+     "agree": 0.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "fecha_hemoptisis",
+     "verdict": "ok",
+     "value": "2026-01-12",
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      1
+     ]
+    },
+    {
+     "field": "diametro_tac_mm",
+     "verdict": "ok",
+     "value": 46,
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      3
+     ]
+    },
+    {
+     "field": "diametro_pet_mm",
+     "verdict": "ok",
+     "value": 44,
+     "conf": 92,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "suvmax_primario",
+     "verdict": "ok",
+     "value": 14.6,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "adenopatias_patologicas_tac",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      3
+     ]
+    },
+    {
+     "field": "adenopatias_patologicas_pet",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      4
+     ]
+    },
+    {
+     "field": "biopsia_previa",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "medio_biopsia",
+     "verdict": "ok",
+     "value": "BIOPSIA PERCUTANEA GUIADA POR TC",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "histologia_preoperatoria",
+     "verdict": "ok",
+     "value": "ADENOCARCINOMA",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "pdl1_preop_pct",
+     "verdict": "ok",
+     "value": 35,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "egfr_preop",
+     "verdict": "ok",
+     "value": "NO MUTADO",
+     "conf": 93,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "kras_preop",
+     "verdict": "ok",
+     "value": "MUTACION G12C",
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      5
+     ]
+    },
+    {
+     "field": "estadificacion_invasiva",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "medio_estadificacion",
+     "verdict": "ok",
+     "value": "EBUS",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "n_territorios_biopsiados",
+     "verdict": "ok",
+     "value": 3,
+     "conf": 92,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "n2_confirmado_invasivo",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "calidad_estadificacion",
+     "verdict": "ok",
+     "value": "PARCIALMENTE_LIMITADA",
+     "conf": 78,
+     "agree": 1.0,
+     "docs": [
+      6
+     ]
+    },
+    {
+     "field": "cT",
+     "verdict": "ok",
+     "value": "T2B",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "cN",
+     "verdict": "ok",
+     "value": "N2",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "cM",
+     "verdict": "ok",
+     "value": "M0",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "c_estadio",
+     "verdict": "ok",
+     "value": "IIIA",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "fev1_pct",
+     "verdict": "ok",
+     "value": 88,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "dlco_pct",
+     "verdict": "ok",
+     "value": 81,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "test_esfuerzo_realizado",
+     "verdict": "ok",
+     "value": 0,
+     "conf": 90,
+     "agree": 1.0,
+     "docs": [
+      7
+     ]
+    },
+    {
+     "field": "cea_basal",
+     "verdict": "ok",
+     "value": 12.8,
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      2
+     ]
+    },
+    {
+     "field": "cyfra_basal",
+     "verdict": "ok",
+     "value": 2.7,
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      2
+     ]
+    },
+    {
+     "field": "neoadyuvancia",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "tipo_neoadyuvancia",
+     "verdict": "ok",
+     "value": "QT+IO",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "ciclos_neoadyuvancia",
+     "verdict": "ok",
+     "value": 3,
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      8
+     ]
+    },
+    {
+     "field": "respuesta_neoadyuvancia",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "ycT",
+     "verdict": "ok",
+     "value": "T1C",
+     "conf": 94,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "ycN",
+     "verdict": "ok",
+     "value": "N0",
+     "conf": 94,
+     "agree": 1.0,
+     "docs": [
+      9
+     ]
+    },
+    {
+     "field": "reseccion_practicada",
+     "verdict": "ok",
+     "value": "LOBECTOMIA INFERIOR DERECHA",
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      10,
+      13
+     ]
+    },
+    {
+     "field": "abordaje_inicial",
+     "verdict": "ok",
+     "value": "VATS",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "abordaje_final",
+     "verdict": "ok",
+     "value": "ABIERTO",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      10
+     ]
+    },
+    {
+     "field": "conversion",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      10,
+      13
+     ]
+    },
+    {
+     "field": "ypT",
+     "verdict": "ok",
+     "value": "T1B",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "ypN",
+     "verdict": "ok",
+     "value": "N0",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      11
+     ]
+    },
+    {
+     "field": "tumor_viable_pct",
+     "verdict": "ok",
+     "value": 8,
+     "conf": 93,
+     "agree": 1.0,
+     "docs": [
+      11,
+      14
+     ]
+    },
+    {
+     "field": "respuesta_patologica_mayor",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      11,
+      14
+     ]
+    }
+   ],
+   "n_samples": 5
+  },
+  "N2": {
+   "rows": [
+    {
+     "field": "estancia_postop_dias",
+     "verdict": "ok",
+     "value": 7,
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      10,
+      12,
+      13
+     ]
+    },
+    {
+     "field": "fuga_aerea_postop",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      12,
+      13
+     ]
+    },
+    {
+     "field": "duracion_fuga_aerea_dias",
+     "verdict": "err",
+     "value": "3-4",
+     "conf": 65,
+     "agree": 0.8,
+     "docs": [
+      12
+     ]
+    },
+    {
+     "field": "complicacion_postop",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      12,
+      13
+     ]
+    },
+    {
+     "field": "complicacion_principal",
+     "verdict": "ok",
+     "value": "FIBRILACION AURICULAR",
+     "conf": 70,
+     "agree": 0.6,
+     "docs": [
+      12,
+      13
+     ]
+    },
+    {
+     "field": "reintervencion_postop",
+     "verdict": "ok",
+     "value": 0,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      13
+     ]
+    },
+    {
+     "field": "tratamiento_adyuvante",
+     "verdict": "ok",
+     "value": 0,
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      14
+     ]
+    },
+    {
+     "field": "recaida",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "fecha_primera_recaida",
+     "verdict": "ok",
+     "value": "2027-03-28",
+     "conf": 85,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "tipo_primera_recaida",
+     "verdict": "ok",
+     "value": "GANGLIONAR",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "localizacion_primera_recaida",
+     "verdict": "ok",
+     "value": "GANGLIONAR MEDIASTINICA SUBCARINAL (ESTACION 7)",
+     "conf": 92,
+     "agree": 0.2,
+     "docs": [
+      15,
+      16
+     ]
+    },
+    {
+     "field": "recaida_confirmada_histologia",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "histologia_recaida",
+     "verdict": "ok",
+     "value": "ADENOCARCINOMA",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      16
+     ]
+    },
+    {
+     "field": "tratamiento_primera_recaida",
+     "verdict": "ok",
+     "value": "QUIMIORRADIOTERAPIA CONCOMITANTE",
+     "conf": 95,
+     "agree": 1.0,
+     "docs": [
+      17
+     ]
+    },
+    {
+     "field": "respuesta_primera_recaida",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 93,
+     "agree": 1.0,
+     "docs": [
+      17
+     ]
+    },
+    {
+     "field": "segunda_progresion",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "fecha_segunda_progresion",
+     "verdict": "ok",
+     "value": "2028-01-18",
+     "conf": 85,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tipo_segunda_progresion",
+     "verdict": "ok",
+     "value": "DISTANCIA",
+     "conf": 90,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "organo_segunda_progresion",
+     "verdict": "ok",
+     "value": "HIGADO",
+     "conf": 88,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "segunda_progresion_confirmada_histologia",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "kras_g12c_recaida_metastasica",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tratamiento_segunda_progresion",
+     "verdict": "ok",
+     "value": "SOTORASIB",
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "respuesta_sotorasib",
+     "verdict": "ok",
+     "value": "RP",
+     "conf": 94,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "estado_oncologico_final",
+     "verdict": "ok",
+     "value": "EE",
+     "conf": 70,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "vivo_ultimo_seguimiento",
+     "verdict": "ok",
+     "value": 1,
+     "conf": 98,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "fecha_ultimo_seguimiento",
+     "verdict": "ok",
+     "value": "2028-09-20",
+     "conf": 96,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    },
+    {
+     "field": "tratamiento_activo_final",
+     "verdict": "ok",
+     "value": "SOTORASIB",
+     "conf": 97,
+     "agree": 1.0,
+     "docs": [
+      18
+     ]
+    }
+   ],
+   "n_samples": 5
+  }
+ }
+}

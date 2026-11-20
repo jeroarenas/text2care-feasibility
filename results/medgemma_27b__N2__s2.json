@@ -1,0 +1,241 @@
+{
+ "content": "{\n  \"estancia_postop_dias\": {\n    \"value\": \"[6, 7]\",\n    \"docs\": [\n      10,\n      13\n    ],\n    \"quote\": \"Alta domiciliaria el 13/05/2026. ... Postoperatorio con fuga aérea transitoria que se resuelve de forma espontánea. ... Drenaje pleural retirado el 11/05/2026.\",\n    \"confidence\": 100\n  },\n  \"fuga_aerea_postop\": {\n    \"value\": \"1\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Día 1 - 07/05/2026. ... Burbujeo evidente con tos y espiración forzada.\",\n    \"confidence\": 100\n  },\n  \"duracion_fuga_aerea_dias\": {\n    \"value\": \"[3, 4]\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Día 1 - 07/05/2026. ... Burbujeo evidente con tos y espiración forzada. Día 4 - 10/05/2026. ... Desde la noche previa no se objetiva fuga aérea espontánea...\",\n    \"confidence\": 100\n  },\n  \"complicacion_postop\": {\n    \"value\": \"1\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Día 2 - 08/05/2026. ... Por la tarde episodio de palpitaciones; ECG: fibrilación auricular a 145 lpm.\",\n    \"confidence\": 100\n  },\n  \"complicacion_principal\": {\n    \"value\": \"FIBRILACION AURICULAR\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Día 2 - 08/05/2026. ... Por la tarde episodio de palpitaciones; ECG: fibrilación auricular a 145 lpm.\",\n    \"confidence\": 100\n  },\n  \"reintervencion_postop\": {\n    \"value\": \"0\",\n    \"docs\": [\n      10,\n      13\n    ],\n    \"quote\": \"Complicaciones postoperatorias: fuga aérea transitoria que se resuelve de forma espontánea. Episodio aislado de fibrilación auricular... Sin neumonía, reintervención ni otras complicaciones mayores.\",\n    \"confidence\": 100\n  },\n  \"tratamiento_adyuvante\": {\n    \"value\": \"0\",\n    \"docs\": [\n      14\n    ],\n    \"quote\": \"Tras tres ciclos de quimioinmunoterapia neoadyuvante y resección R0 con respuesta patológica mayor, no se indica quimioterapia adyuvante adicional.\",\n    \"confidence\": 100\n  },\n  \"recaida\": {\n    \"value\": \"1\",\n    \"docs\": [\n      15,\n      16\n    ],\n    \"quote\": \"TC - 14/03/2027: Aparece adenopatía subcarinal de 18 mm, de nueva aparición respecto al estudio previo. Hallazgos sospechosos de recaída ganglionar.\",\n    \"confidence\": 100\n  },\n  \"fecha_primera_recaida\": {\n    \"value\": \"2027-03-14\",\n    \"docs\": [\n      15\n    ],\n    \"quote\": \"TC - 14/03/2027: Aparece adenopatía subcarinal de 18 mm, de nueva aparición respecto al estudio previo. Hallazgos sospechosos de recaída ganglionar.\",\n    \"confidence\": 100\n  },\n  \"tipo_primera_recaida\": {\n    \"value\": \"GANGLIONAR\",\n    \"docs\": [\n      15,\n      16\n    ],\n    \"quote\": \"TC - 14/03/2027: Aparece adenopatía subcarinal de 18 mm... Hallazgos sospechosos de recaída ganglionar. EBUS - 28/03/2027: ...positiva para adenocarcinoma.\",\n    \"confidence\": 100\n  },\n  \"localizacion_primera_recaida\": {\n    \"value\": \"MESTASTATICA GANGIONAR MEDIASTINICA\",\n    \"docs\": [\n      15,\n      16\n    ],\n    \"quote\": \"TC - 14/03/2027: Aparece adenopatía subcarinal de 18 mm... Hallazgos sospechosos de recaída ganglionar. EBUS - 28/03/2027: ...positiva para adenocarcinoma en estación 7.\",\n    \"confidence\": 100\n  },\n  \"recaida_confirmada_histologia\": {\n    \"value\": \"1\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"EBUS - 28/03/2027: Se punciona estación 7... muestra representativa positiva para adenocarcinoma.\",\n    \"confidence\": 100\n  },\n  \"histologia_recaida\": {\n    \"value\": \"ADENOCARCINOMA\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"EBUS - 28/03/2027: ... muestra representativa positiva para adenocarcinoma.\",\n    \"confidence\": 100\n  },\n  \"tratamiento_primera_recaida\": {\n    \"value\": \"QUIMIORRADIOTERAPIA\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"Comité multidisciplinar - 04/04/2027: Recaída ganglionar mediastínica aislada... Se considera candidata a tratamiento de rescate con quimiorradioterapia concomitante con intención radical.\",\n    \"confidence\": 100\n  },\n  \"respuesta_primera_recaida\": {\n    \"value\": \"RP\",\n    \"docs\": [\n      17\n    ],\n    \"quote\": \"TC - 20/07/2027: Disminución de la adenopatía subcarinal hasta 8 mm. ... Respuesta parcial radiológica.\",\n    \"confidence\": 100\n  },\n  \"segunda_progresion\": {\n    \"value\": \"1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"TC - 18/01/2028: Nueva lesión focal hepática... y pequeño nódulo pulmonar contralateral... Hallazgos compatibles con progresión a distancia.\",\n    \"confidence\": 100\n  },\n  \"fecha_segunda_progresion\": {\n    \"value\": \"2028-01-18\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"TC - 18/01/2028: Nueva lesión focal hepática... y pequeño nódulo pulmonar contralateral... Hallazgos compatibles con progresión a distancia.\",\n    \"confidence\": 100\n  },\n  \"tipo_segunda_progresion\": {\n    \"value\": \"DISTANCIA\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"TC - 18/01/2028: Nueva lesión focal hepática... y pequeño nódulo pulmonar contralateral... Hallazgos compatibles con progresión a distancia.\",\n    \"confidence\": 100\n  },\n  \"organo_segunda_progresion\": {\n    \"value\": \"HIGADO\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"TC - 18/01/2028: Nueva lesión focal hepática...\",\n    \"confidence\": 100\n  },\n  \"segunda_progresion_confirmada_histologia\": {\n    \"value\": \"1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Biopsia hepática - 29/01/2028: Metástasis de adenocarcinoma pulmonar.\",\n    \"confidence\": 100\n  },\n  \"kras_g12c_recaida_metastasica\": {\n    \"value\": \"1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Biopsia hepática - 29/01/2028: ...KRAS G12C detectado.\",\n    \"confidence\": 100\n  },\n  \"tratamiento_segunda_progresion\": {\n    \"value\": \"SOTORASIB\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Comité - 06/02/2028: Se decide tratamiento sistémico dirigido frente a KRAS G12C. Oncología Médica: Inicio de sotorasib el 12/02/2028.\",\n    \"confidence\": 100\n  },\n  \"respuesta_sotorasib\": {\n    \"value\": \"RP\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"TC - 10/05/2028: Reducción de la lesión hepática a 12 mm y desaparición del nódulo pulmonar contralateral previamente descrito. Respuesta parcial.\",\n    \"confidence\": 100\n  },\n  \"estado_oncologico_final\": {\n    \"value\": \"RP\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Último seguimiento - 20/09/2028: ...TC de 15/09/2028 con enfermedad estable respecto a mayo, sin nuevas lesiones.\",\n    \"confidence\": 100\n  },\n  \"vivo_ultimo_seguimiento\": {\n    \"value\": \"1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Último seguimiento - 20/09/2028: Paciente vivo...\",\n    \"confidence\": 100\n  },\n  \"fecha_ultimo_seguimiento\": {\n    \"value\": \"2028-09-20\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Último seguimiento - 20/09/2028\",\n    \"confidence\": 100\n  },\n  \"tratamiento_activo_final\": {\n    \"value\": \"SOTORASIB\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Último seguimiento - 20/09/2028: Paciente vivo, ECOG 1, en tratamiento con sotorasib.\",\n    \"confidence\": 100\n  }\n}",
+ "thinking_chars": 0,
+ "seconds": 222.5,
+ "usage": {
+  "prompt_eval_count": 6975,
+  "eval_count": 2573,
+  "total_duration": 222500812699
+ },
+ "parsed": {
+  "estancia_postop_dias": {
+   "value": "[6, 7]",
+   "docs": [
+    10,
+    13
+   ],
+   "quote": "Alta domiciliaria el 13/05/2026. ... Postoperatorio con fuga aérea transitoria que se resuelve de forma espontánea. ... Drenaje pleural retirado el 11/05/2026.",
+   "confidence": 100
+  },
+  "fuga_aerea_postop": {
+   "value": "1",
+   "docs": [
+    12
+   ],
+   "quote": "Día 1 - 07/05/2026. ... Burbujeo evidente con tos y espiración forzada.",
+   "confidence": 100
+  },
+  "duracion_fuga_aerea_dias": {
+   "value": "[3, 4]",
+   "docs": [
+    12
+   ],
+   "quote": "Día 1 - 07/05/2026. ... Burbujeo evidente con tos y espiración forzada. Día 4 - 10/05/2026. ... Desde la noche previa no se objetiva fuga aérea espontánea...",
+   "confidence": 100
+  },
+  "complicacion_postop": {
+   "value": "1",
+   "docs": [
+    12
+   ],
+   "quote": "Día 2 - 08/05/2026. ... Por la tarde episodio de palpitaciones; ECG: fibrilación auricular a 145 lpm.",
+   "confidence": 100
+  },
+  "complicacion_principal": {
+   "value": "FIBRILACION AURICULAR",
+   "docs": [
+    12
+   ],
+   "quote": "Día 2 - 08/05/2026. ... Por la tarde episodio de palpitaciones; ECG: fibrilación auricular a 145 lpm.",
+   "confidence": 100
+  },
+  "reintervencion_postop": {
+   "value": "0",
+   "docs": [
+    10,
+    13
+   ],
+   "quote": "Complicaciones postoperatorias: fuga aérea transitoria que se resuelve de forma espontánea. Episodio aislado de fibrilación auricular... Sin neumonía, reintervención ni otras complicaciones mayores.",
+   "confidence": 100
+  },
+  "tratamiento_adyuvante": {
+   "value": "0",
+   "docs": [
+    14
+   ],
+   "quote": "Tras tres ciclos de quimioinmunoterapia neoadyuvante y resección R0 con respuesta patológica mayor, no se indica quimioterapia adyuvante adicional.",
+   "confidence": 100
+  },
+  "recaida": {
+   "value": "1",
+   "docs": [
+    15,
+    16
+   ],
+   "quote": "TC - 14/03/2027: Aparece adenopatía subcarinal de 18 mm, de nueva aparición respecto al estudio previo. Hallazgos sospechosos de recaída ganglionar.",
+   "confidence": 100
+  },
+  "fecha_primera_recaida": {
+   "value": "2027-03-14",
+   "docs": [
+    15
+   ],
+   "quote": "TC - 14/03/2027: Aparece adenopatía subcarinal de 18 mm, de nueva aparición respecto al estudio previo. Hallazgos sospechosos de recaída ganglionar.",
+   "confidence": 100
+  },
+  "tipo_primera_recaida": {
+   "value": "GANGLIONAR",
+   "docs": [
+    15,
+    16
+   ],
+   "quote": "TC - 14/03/2027: Aparece adenopatía subcarinal de 18 mm... Hallazgos sospechosos de recaída ganglionar. EBUS - 28/03/2027: ...positiva para adenocarcinoma.",
+   "confidence": 100
+  },
+  "localizacion_primera_recaida": {
+   "value": "MESTASTATICA GANGIONAR MEDIASTINICA",
+   "docs": [
+    15,
+    16
+   ],
+   "quote": "TC - 14/03/2027: Aparece adenopatía subcarinal de 18 mm... Hallazgos sospechosos de recaída ganglionar. EBUS - 28/03/2027: ...positiva para adenocarcinoma en estación 7.",
+   "confidence": 100
+  },
+  "recaida_confirmada_histologia": {
+   "value": "1",
+   "docs": [
+    16
+   ],
+   "quote": "EBUS - 28/03/2027: Se punciona estación 7... muestra representativa positiva para adenocarcinoma.",
+   "confidence": 100
+  },
+  "histologia_recaida": {
+   "value": "ADENOCARCINOMA",
+   "docs": [
+    16
+   ],
+   "quote": "EBUS - 28/03/2027: ... muestra representativa positiva para adenocarcinoma.",
+   "confidence": 100
+  },
+  "tratamiento_primera_recaida": {
+   "value": "QUIMIORRADIOTERAPIA",
+   "docs": [
+    16
+   ],
+   "quote": "Comité multidisciplinar - 04/04/2027: Recaída ganglionar mediastínica aislada... Se considera candidata a tratamiento de rescate con quimiorradioterapia concomitante con intención radical.",
+   "confidence": 100
+  },
+  "respuesta_primera_recaida": {
+   "value": "RP",
+   "docs": [
+    17
+   ],
+   "quote": "TC - 20/07/2027: Disminución de la adenopatía subcarinal hasta 8 mm. ... Respuesta parcial radiológica.",
+   "confidence": 100
+  },
+  "segunda_progresion": {
+   "value": "1",
+   "docs": [
+    18
+   ],
+   "quote": "TC - 18/01/2028: Nueva lesión focal hepática... y pequeño nódulo pulmonar contralateral... Hallazgos compatibles con progresión a distancia.",
+   "confidence": 100
+  },
+  "fecha_segunda_progresion": {
+   "value": "2028-01-18",
+   "docs": [
+    18
+   ],
+   "quote": "TC - 18/01/2028: Nueva lesión focal hepática... y pequeño nódulo pulmonar contralateral... Hallazgos compatibles con progresión a distancia.",
+   "confidence": 100
+  },
+  "tipo_segunda_progresion": {
+   "value": "DISTANCIA",
+   "docs": [
+    18
+   ],
+   "quote": "TC - 18/01/2028: Nueva lesión focal hepática... y pequeño nódulo pulmonar contralateral... Hallazgos compatibles con progresión a distancia.",
+   "confidence": 100
+  },
+  "organo_segunda_progresion": {
+   "value": "HIGADO",
+   "docs": [
+    18
+   ],
+   "quote": "TC - 18/01/2028: Nueva lesión focal hepática...",
+   "confidence": 100
+  },
+  "segunda_progresion_confirmada_histologia": {
+   "value": "1",
+   "docs": [
+    18
+   ],
+   "quote": "Biopsia hepática - 29/01/2028: Metástasis de adenocarcinoma pulmonar.",
+   "confidence": 100
+  },
+  "kras_g12c_recaida_metastasica": {
+   "value": "1",
+   "docs": [
+    18
+   ],
+   "quote": "Biopsia hepática - 29/01/2028: ...KRAS G12C detectado.",
+   "confidence": 100
+  },
+  "tratamiento_segunda_progresion": {
+   "value": "SOTORASIB",
+   "docs": [
+    18
+   ],
+   "quote": "Comité - 06/02/2028: Se decide tratamiento sistémico dirigido frente a KRAS G12C. Oncología Médica: Inicio de sotorasib el 12/02/2028.",
+   "confidence": 100
+  },
+  "respuesta_sotorasib": {
+   "value": "RP",
+   "docs": [
+    18
+   ],
+   "quote": "TC - 10/05/2028: Reducción de la lesión hepática a 12 mm y desaparición del nódulo pulmonar contralateral previamente descrito. Respuesta parcial.",
+   "confidence": 100
+  },
+  "estado_oncologico_final": {
+   "value": "RP",
+   "docs": [
+    18
+   ],
+   "quote": "Último seguimiento - 20/09/2028: ...TC de 15/09/2028 con enfermedad estable respecto a mayo, sin nuevas lesiones.",
+   "confidence": 100
+  },
+  "vivo_ultimo_seguimiento": {
+   "value": "1",
+   "docs": [
+    18
+   ],
+   "quote": "Último seguimiento - 20/09/2028: Paciente vivo...",
+   "confidence": 100
+  },
+  "fecha_ultimo_seguimiento": {
+   "value": "2028-09-20",
+   "docs": [
+    18
+   ],
+   "quote": "Último seguimiento - 20/09/2028",
+   "confidence": 100
+  },
+  "tratamiento_activo_final": {
+   "value": "SOTORASIB",
+   "docs": [
+    18
+   ],
+   "quote": "Último seguimiento - 20/09/2028: Paciente vivo, ECOG 1, en tratamiento con sotorasib.",
+   "confidence": 100
+  }
+ },
+ "model": "medgemma-27b",
+ "backend": "ollama",
+ "level": "N2",
+ "run": "s2",
+ "temperature": 0.7,
+ "seed": 102,
+ "think": "default",
+ "date": "2026-11-19 12:16"
+}

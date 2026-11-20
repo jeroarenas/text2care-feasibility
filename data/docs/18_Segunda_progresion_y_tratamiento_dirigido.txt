@@ -1,0 +1,15 @@
+18. Segunda progresión y tratamiento dirigido
+Radiología / Anatomía Patológica / Comité / Oncología Médica
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+TC - 18/01/2028
+Nueva lesión focal hepática en segmento VI de 24 mm y pequeño nódulo pulmonar contralateral de 9 mm. Adenopatía subcarinal estable. Hallazgos compatibles con progresión a distancia.
+Biopsia hepática - 29/01/2028
+Metástasis de adenocarcinoma pulmonar. TTF-1 positivo. KRAS G12C detectado. EGFR no mutado. PD-L1 TPS 60%.
+Comité - 06/02/2028
+Progresión metastásica hepática y pulmonar tras tratamiento multimodal previo. Se decide tratamiento sistémico dirigido frente a KRAS G12C.
+Oncología Médica
+Inicio de sotorasib el 12/02/2028. Buena tolerancia inicial. Elevación transitoria de transaminasas grado 1, sin necesidad de suspensión.
+TC - 10/05/2028
+Reducción de la lesión hepática a 12 mm y desaparición del nódulo pulmonar contralateral previamente descrito. Respuesta parcial.
+Último seguimiento - 20/09/2028
+Paciente vivo, ECOG 1, en tratamiento con sotorasib. TC de 15/09/2028 con enfermedad estable respecto a mayo, sin nuevas lesiones. CEA 4,8 ng/mL.

@@ -1,0 +1,76 @@
+02. Analítica inicial
+Laboratorio central - Informe sintético
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Identificación de muestra
+Muestra de sangre periférica. Fecha de extracción: 20/01/2026. Hora: 08:12.
+Resultados
+Parámetro
+Resultado
+Unidad
+Intervalo de referencia
+Flag
+Hemoglobina
+14,1
+g/dL
+13,0-17,5
+Hematocrito
+42,8
+%
+39-52
+Leucocitos
+8,4
+x10^9/L
+4,0-11,0
+Neutrófilos
+5,6
+x10^9/L
+1,8-7,5
+Linfocitos
+1,9
+x10^9/L
+1,0-4,0
+Plaquetas
+287
+x10^9/L
+150-400
+Creatinina
+0,91
+mg/dL
+0,70-1,20
+Bilirrubina total
+0,7
+mg/dL
+0,2-1,2
+AST/GOT
+24
+U/L
+10-40
+ALT/GPT
+29
+U/L
+10-45
+Fosfatasa alcalina
+89
+U/L
+40-130
+LDH
+221
+U/L
+135-225
+Albúmina
+4,2
+g/dL
+3,5-5,2
+PCR
+3,1
+mg/L
+&lt;5,0
+CEA
+12,8
+ng/mL
+&lt;5,0
+H
+CYFRA 21-1
+2,7
+ng/mL
+&lt;3,3

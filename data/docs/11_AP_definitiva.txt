@@ -1,0 +1,15 @@
+11. Anatomía patológica definitiva
+Anatomía Patológica - 14/05/2026
+CASO COMPLETAMENTE SINTÉTICO - SIN DATOS DE PACIENTES REALES
+Pieza
+Lobectomía inferior derecha con ganglios hiliares y mediastínicos.
+Tumor
+Lecho tumoral de 2,6 cm. Foco residual de adenocarcinoma viable de 1,8 cm, aproximadamente 8% de tumor viable. Fibrosis y cambios de tratamiento en el resto del lecho. Sin invasión pleural visceral.
+Márgenes
+Márgenes bronquial, vascular y parenquimatoso libres de infiltración tumoral.
+Ganglios
+Se estudian 17 ganglios: estaciones 4R, 7, 8R, 9R, 10R y 11R. Todos negativos para malignidad.
+Clasificación
+ypT1b ypN0. Respuesta patológica mayor. No respuesta patológica completa.
+Biomarcadores
+No se realiza nueva determinación de PD-L1 ni nuevo estudio molecular en la pieza quirúrgica.

@@ -1,0 +1,236 @@
+{
+ "content": "{\n  \"estancia_postop_dias\": {\n    \"value\": \"D8\",\n    \"docs\": [\n      13\n    ],\n    \"quote\": \"Paciente dado de alta el 13/05/2026, intervenido el 06/05/2026.\",\n    \"confidence\": 95\n  },\n  \"fuga_aerea_postop\": {\n    \"value\": \"D1\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Fuga aérea transitoria que se resuelve de forma espontánea.\",\n    \"confidence\": 95\n  },\n  \"duracion_fuga_aerea_dias\": {\n    \"value\": \"D6\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Fuga aérea desde el día 0 al día 3; resuelta espontáneamente.\",\n    \"confidence\": 90\n  },\n  \"complicacion_postop\": {\n    \"value\": \"D1\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Episodio aislado de fibrilación auricular en segundo día postoperatorio.\",\n    \"confidence\": 95\n  },\n  \"complicacion_principal\": {\n    \"value\": \"FIBRILACION AURICULAR\",\n    \"docs\": [\n      12\n    ],\n    \"quote\": \"Episodio aislado de fibrilación auricular en segundo día postoperatorio, revertido farmacológicamente.\",\n    \"confidence\": 95\n  },\n  \"reintervencion_postop\": {\n    \"value\": \"D0\",\n    \"docs\": [\n      13\n    ],\n    \"quote\": \"Sin reintervención ni otras complicaciones mayores.\",\n    \"confidence\": 95\n  },\n  \"tratamiento_adyuvante\": {\n    \"value\": \"D0\",\n    \"docs\": [\n      14\n    ],\n    \"quote\": \"No se indica quimioterapia adyuvante adicional tras la cirugía.\",\n    \"confidence\": 95\n  },\n  \"recaida\": {\n    \"value\": \"D1\",\n    \"docs\": [\n      15\n    ],\n    \"quote\": \"Adenopatía subcarinal de nueva aparición en TC de diciembre 2026.\",\n    \"confidence\": 95\n  },\n  \"fecha_primera_recaida\": {\n    \"value\": \"2027-03-14\",\n    \"docs\": [\n      15\n    ],\n    \"quote\": \"Confirmada mediante PET-TC el 22/03/2027, con adenopatía subcarinal hipermetabólica.\",\n    \"confidence\": 95\n  },\n  \"tipo_primera_recaida\": {\n    \"value\": \"GANGLIONAR\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"Recaída ganglionar mediastínica aislada, confirmada histológicamente en estación 7.\",\n    \"confidence\": 95\n  },\n  \"localizacion_primera_recaida\": {\n    \"value\": \"MEDIASTINICA\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"Recaída ganglionar mediastínica aislada, confirmada mediante EBUS.\",\n    \"confidence\": 95\n  },\n  \"recaida_confirmada_histologia\": {\n    \"value\": \"D1\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"Confirmada mediante punción EBUS y anatomía patológica positiva para adenocarcinoma.\",\n    \"confidence\": 95\n  },\n  \"histologia_recaida\": {\n    \"value\": \"ADENOCARCINOMA\",\n    \"docs\": [\n      16\n    ],\n    \"quote\": \"Adenocarcinoma compatible con origen pulmonar, TTF-1 positivo.\",\n    \"confidence\": 95\n  },\n  \"tratamiento_primera_recaida\": {\n    \"value\": \"QUIMIORRADIOTERAPIA CONCOMITANTE\",\n    \"docs\": [\n      17\n    ],\n    \"quote\": \"Tratamiento con carboplatino, paclitaxel y radioterapia mediastínica.\",\n    \"confidence\": 95\n  },\n  \"respuesta_primera_recaida\": {\n    \"value\": \"RP\",\n    \"docs\": [\n      17\n    ],\n    \"quote\": \"Disminución de la adenopatía subcarinal hasta 8 mm. Respuesta parcial radiológica.\",\n    \"confidence\": 95\n  },\n  \"segunda_progresion\": {\n    \"value\": \"D1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Progresión metastásica hepática y pulmonar confirmada en TC de enero de 2028.\",\n    \"confidence\": 95\n  },\n  \"fecha_segunda_progresion\": {\n    \"value\": \"2028-01-18\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Diagnóstico confirmado mediante TC del 18/01/2028.\",\n    \"confidence\": 95\n  },\n  \"tipo_segunda_progresion\": {\n    \"value\": \"DISTANCIA\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Nueva lesión hepática y nódulo pulmonar contralateral; progresión a distancia.\",\n    \"confidence\": 95\n  },\n  \"organo_segunda_progresion\": {\n    \"value\": \"HIGADO\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Lesión focal hepática en segmento VI de 24 mm en TC de enero de 2028.\",\n    \"confidence\": 95\n  },\n  \"segunda_progresion_confirmada_histologia\": {\n    \"value\": \"D1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Biopsia hepática positiva para metástasis de adenocarcinoma pulmonar.\",\n    \"confidence\": 95\n  },\n  \"kras_g12c_recaida_metastasica\": {\n    \"value\": \"D1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"KRAS G12C persistente confirmado en biopsia hepática.\",\n    \"confidence\": 95\n  },\n  \"tratamiento_segunda_progresion\": {\n    \"value\": \"SOTORASIB\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Tratamiento sistémico dirigido con sotorasib iniciado el 12/02/2028.\",\n    \"confidence\": 95\n  },\n  \"respuesta_sotorasib\": {\n    \"value\": \"RP\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Reducción de la lesión hepática y desaparición del nódulo pulmonar contralateral; respuesta parcial.\",\n    \"confidence\": 95\n  },\n  \"estado_oncologico_final\": {\n    \"value\": \"EE\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Enfermedad estable en TC de septiembre de 2028, sin nuevas lesiones.\",\n    \"confidence\": 95\n  },\n  \"vivo_ultimo_seguimiento\": {\n    \"value\": \"D1\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Paciente vivo en el último seguimiento del 20/09/2028.\",\n    \"confidence\": 95\n  },\n  \"fecha_ultimo_seguimiento\": {\n    \"value\": \"2028-09-20\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Último seguimiento del 20/09/2028, con enfermedad estable.\",\n    \"confidence\": 95\n  },\n  \"tratamiento_activo_final\": {\n    \"value\": \"SOTORASIB\",\n    \"docs\": [\n      18\n    ],\n    \"quote\": \"Paciente en tratamiento con sotorasib en el último seguimiento.\",\n    \"confidence\": 95\n  }\n}",
+ "thinking_chars": 0,
+ "seconds": 399.0,
+ "usage": {
+  "prompt_eval_count": 7699,
+  "eval_count": 1927,
+  "total_duration": 398998095575
+ },
+ "parsed": {
+  "estancia_postop_dias": {
+   "value": "D8",
+   "docs": [
+    13
+   ],
+   "quote": "Paciente dado de alta el 13/05/2026, intervenido el 06/05/2026.",
+   "confidence": 95
+  },
+  "fuga_aerea_postop": {
+   "value": "D1",
+   "docs": [
+    12
+   ],
+   "quote": "Fuga aérea transitoria que se resuelve de forma espontánea.",
+   "confidence": 95
+  },
+  "duracion_fuga_aerea_dias": {
+   "value": "D6",
+   "docs": [
+    12
+   ],
+   "quote": "Fuga aérea desde el día 0 al día 3; resuelta espontáneamente.",
+   "confidence": 90
+  },
+  "complicacion_postop": {
+   "value": "D1",
+   "docs": [
+    12
+   ],
+   "quote": "Episodio aislado de fibrilación auricular en segundo día postoperatorio.",
+   "confidence": 95
+  },
+  "complicacion_principal": {
+   "value": "FIBRILACION AURICULAR",
+   "docs": [
+    12
+   ],
+   "quote": "Episodio aislado de fibrilación auricular en segundo día postoperatorio, revertido farmacológicamente.",
+   "confidence": 95
+  },
+  "reintervencion_postop": {
+   "value": "D0",
+   "docs": [
+    13
+   ],
+   "quote": "Sin reintervención ni otras complicaciones mayores.",
+   "confidence": 95
+  },
+  "tratamiento_adyuvante": {
+   "value": "D0",
+   "docs": [
+    14
+   ],
+   "quote": "No se indica quimioterapia adyuvante adicional tras la cirugía.",
+   "confidence": 95
+  },
+  "recaida": {
+   "value": "D1",
+   "docs": [
+    15
+   ],
+   "quote": "Adenopatía subcarinal de nueva aparición en TC de diciembre 2026.",
+   "confidence": 95
+  },
+  "fecha_primera_recaida": {
+   "value": "2027-03-14",
+   "docs": [
+    15
+   ],
+   "quote": "Confirmada mediante PET-TC el 22/03/2027, con adenopatía subcarinal hipermetabólica.",
+   "confidence": 95
+  },
+  "tipo_primera_recaida": {
+   "value": "GANGLIONAR",
+   "docs": [
+    16
+   ],
+   "quote": "Recaída ganglionar mediastínica aislada, confirmada histológicamente en estación 7.",
+   "confidence": 95
+  },
+  "localizacion_primera_recaida": {
+   "value": "MEDIASTINICA",
+   "docs": [
+    16
+   ],
+   "quote": "Recaída ganglionar mediastínica aislada, confirmada mediante EBUS.",
+   "confidence": 95
+  },
+  "recaida_confirmada_histologia": {
+   "value": "D1",
+   "docs": [
+    16
+   ],
+   "quote": "Confirmada mediante punción EBUS y anatomía patológica positiva para adenocarcinoma.",
+   "confidence": 95
+  },
+  "histologia_recaida": {
+   "value": "ADENOCARCINOMA",
+   "docs": [
+    16
+   ],
+   "quote": "Adenocarcinoma compatible con origen pulmonar, TTF-1 positivo.",
+   "confidence": 95
+  },
+  "tratamiento_primera_recaida": {
+   "value": "QUIMIORRADIOTERAPIA CONCOMITANTE",
+   "docs": [
+    17
+   ],
+   "quote": "Tratamiento con carboplatino, paclitaxel y radioterapia mediastínica.",
+   "confidence": 95
+  },
+  "respuesta_primera_recaida": {
+   "value": "RP",
+   "docs": [
+    17
+   ],
+   "quote": "Disminución de la adenopatía subcarinal hasta 8 mm. Respuesta parcial radiológica.",
+   "confidence": 95
+  },
+  "segunda_progresion": {
+   "value": "D1",
+   "docs": [
+    18
+   ],
+   "quote": "Progresión metastásica hepática y pulmonar confirmada en TC de enero de 2028.",
+   "confidence": 95
+  },
+  "fecha_segunda_progresion": {
+   "value": "2028-01-18",
+   "docs": [
+    18
+   ],
+   "quote": "Diagnóstico confirmado mediante TC del 18/01/2028.",
+   "confidence": 95
+  },
+  "tipo_segunda_progresion": {
+   "value": "DISTANCIA",
+   "docs": [
+    18
+   ],
+   "quote": "Nueva lesión hepática y nódulo pulmonar contralateral; progresión a distancia.",
+   "confidence": 95
+  },
+  "organo_segunda_progresion": {
+   "value": "HIGADO",
+   "docs": [
+    18
+   ],
+   "quote": "Lesión focal hepática en segmento VI de 24 mm en TC de enero de 2028.",
+   "confidence": 95
+  },
+  "segunda_progresion_confirmada_histologia": {
+   "value": "D1",
+   "docs": [
+    18
+   ],
+   "quote": "Biopsia hepática positiva para metástasis de adenocarcinoma pulmonar.",
+   "confidence": 95
+  },
+  "kras_g12c_recaida_metastasica": {
+   "value": "D1",
+   "docs": [
+    18
+   ],
+   "quote": "KRAS G12C persistente confirmado en biopsia hepática.",
+   "confidence": 95
+  },
+  "tratamiento_segunda_progresion": {
+   "value": "SOTORASIB",
+   "docs": [
+    18
+   ],
+   "quote": "Tratamiento sistémico dirigido con sotorasib iniciado el 12/02/2028.",
+   "confidence": 95
+  },
+  "respuesta_sotorasib": {
+   "value": "RP",
+   "docs": [
+    18
+   ],
+   "quote": "Reducción de la lesión hepática y desaparición del nódulo pulmonar contralateral; respuesta parcial.",
+   "confidence": 95
+  },
+  "estado_oncologico_final": {
+   "value": "EE",
+   "docs": [
+    18
+   ],
+   "quote": "Enfermedad estable en TC de septiembre de 2028, sin nuevas lesiones.",
+   "confidence": 95
+  },
+  "vivo_ultimo_seguimiento": {
+   "value": "D1",
+   "docs": [
+    18
+   ],
+   "quote": "Paciente vivo en el último seguimiento del 20/09/2028.",
+   "confidence": 95
+  },
+  "fecha_ultimo_seguimiento": {
+   "value": "2028-09-20",
+   "docs": [
+    18
+   ],
+   "quote": "Último seguimiento del 20/09/2028, con enfermedad estable.",
+   "confidence": 95
+  },
+  "tratamiento_activo_final": {
+   "value": "SOTORASIB",
+   "docs": [
+    18
+   ],
+   "quote": "Paciente en tratamiento con sotorasib en el último seguimiento.",
+   "confidence": 95
+  }
+ },
+ "model": "qwen3:32b",
+ "backend": "ollama",
+ "level": "N2",
+ "run": "s1",
+ "temperature": 0.7,
+ "seed": 101,
+ "think": "off",
+ "date": "2026-11-19 02:55"
+}
